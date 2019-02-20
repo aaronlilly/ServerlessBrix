@@ -1,0 +1,15 @@
+﻿{
+  "count": 949,
+  "previous": null,
+  "results": 
+  [
+    {
+      "ID": 1,
+      "SetNumber": 75929,
+      "URL": "https://www.lego.com/biassets/bi/6237211.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6237211.png",
+      "Description": "Carnotaurus Gyrosphere Escape",
+      "Notes": "BI 3017 / 68+4 - 65/115g, 75929 1/2 V39",
+      "DashedNumber": "75929-1"
+    }
+  ],"next":"https:\/\/pokeapi.co\/api\/v2\/pokemon\/?limit=151&offset=151"}
