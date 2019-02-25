@@ -4,7 +4,7 @@
                     $.ajax
                         ({
                     method: "GET",
-                    url: "https://aaronlilly.github.io/ServerlessBrix/Preselects/xls/json/fire.json"
+                    url: "https://aaronlilly.github.io/ServerlessBrix/xls/json/fire.json"
                          }).done(function(data) 
 
                                {
