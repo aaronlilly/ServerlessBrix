@@ -1,0 +1,3007 @@
+﻿{
+    "results": [
+    [
+      {
+        "ID": 628,
+        "SetNumber": 1246,
+        "URL": "https://www.lego.com/biassets/bi/4129318.pdf",
+        "Images": "https://www.lego.com/biassets/biimg/4129318.png",
+        "Description": "POLICE HELICOPTER",
+        "Notes": "BUILD.INST FOR 1246",
+        "DashedNumber": "1246-1",
+        "Preselect": "police"
+      },
+  {
+    "ID": 629,
+    "SetNumber": 1247,
+    "URL": "https://www.lego.com/biassets/bi/4129319.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4129319.png",
+    "Description": "POLICE PATROL CAR",
+    "Notes": "BUILD.INST. FOR 1247",
+    "DashedNumber": "1247-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 665,
+    "SetNumber": 1297,
+    "URL": "https://www.lego.com/biassets/bi/4133288.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4133288.png",
+    "Description": "POLICE CAR",
+    "Notes": "BUILD.INSTR. 1297",
+    "DashedNumber": "1297-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 800,
+    "SetNumber": 2234,
+    "URL": "https://www.lego.com/biassets/bi/4117705.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4117705.png",
+    "Description": "POLICE W. 2 ROAD PLATES",
+    "Notes": "BUILDINSTR. 2234 1/7",
+    "DashedNumber": "2234-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 801,
+    "SetNumber": 2234,
+    "URL": "https://www.lego.com/biassets/bi/4117706.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4117706.png",
+    "Description": "POLICE W. 2 ROAD PLATES",
+    "Notes": "BUILDINSTR. 2234 2/7",
+    "DashedNumber": "2234-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 802,
+    "SetNumber": 2234,
+    "URL": "https://www.lego.com/biassets/bi/4117707.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4117707.png",
+    "Description": "POLICE W. 2 ROAD PLATES",
+    "Notes": "BUILDINSTR. 2234 3/7",
+    "DashedNumber": "2234-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 803,
+    "SetNumber": 2234,
+    "URL": "https://www.lego.com/biassets/bi/4117708.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4117708.png",
+    "Description": "POLICE W. 2 ROAD PLATES",
+    "Notes": "BUILDINSTR. 2234 4/7",
+    "DashedNumber": "2234-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 804,
+    "SetNumber": 2234,
+    "URL": "https://www.lego.com/biassets/bi/4117709.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4117709.png",
+    "Description": "POLICE W. 2 ROAD PLATES",
+    "Notes": "BUILDINSTR. 2234 5/7",
+    "DashedNumber": "2234-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 805,
+    "SetNumber": 2234,
+    "URL": "https://www.lego.com/biassets/bi/4117710.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4117710.png",
+    "Description": "POLICE W. 2 ROAD PLATES",
+    "Notes": "BUILDINSTR. 2234 6/7",
+    "DashedNumber": "2234-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 806,
+    "SetNumber": 2234,
+    "URL": "https://www.lego.com/biassets/bi/4117711.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4117711.png",
+    "Description": "POLICE W. 2 ROAD PLATES",
+    "Notes": "BUILDINSTR. 2234 7/7",
+    "DashedNumber": "2234-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 1101,
+    "SetNumber": 3314,
+    "URL": "https://www.lego.com/biassets/bi/4118009.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4118009.png",
+    "Description": "RIOT POLICE",
+    "Notes": "BUILDING INSTR. FOR 3314",
+    "DashedNumber": "3314-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 4937,
+    "SetNumber": 5625,
+    "URL": "https://www.lego.com/biassets/bi/4527542.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4527542.png",
+    "Description": "Police 4x4",
+    "Notes": "BUILD. INSTR. 2001, 5625 IN",
+    "DashedNumber": "5625-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 4938,
+    "SetNumber": 5625,
+    "URL": "https://www.lego.com/biassets/bi/4527544.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4527544.png",
+    "Description": "Police 4x4",
+    "Notes": "BUILD. INSTR. 2001, 5625 NA",
+    "DashedNumber": "5625-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 4953,
+    "SetNumber": 5681,
+    "URL": "https://www.lego.com/biassets/bi/4624786.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4624786.png",
+    "Description": "DUPLO Police",
+    "Notes": "BI 3005/16 GLUED-5681 V29/V39",
+    "DashedNumber": "5681-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 5211,
+    "SetNumber": 5985,
+    "URL": "https://www.lego.com/biassets/bi/4600509.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4600509.png",
+    "Description": "Space Police Central",
+    "Notes": "BI 3006/72+4 - 5985 V 29 1/2",
+    "DashedNumber": "5985-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 5212,
+    "SetNumber": 5985,
+    "URL": "https://www.lego.com/biassets/bi/4600510.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4600510.png",
+    "Description": "Space Police Central",
+    "Notes": "BI 3006/72+4 - 5985 V 39 1/2",
+    "DashedNumber": "5985-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 5213,
+    "SetNumber": 5985,
+    "URL": "https://www.lego.com/biassets/bi/4600511.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4600511.png",
+    "Description": "Space Police Central",
+    "Notes": "BI 3009/60 - 5985 V 29 2/2",
+    "DashedNumber": "5985-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 5214,
+    "SetNumber": 5985,
+    "URL": "https://www.lego.com/biassets/bi/4600512.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4600512.png",
+    "Description": "Space Police Central",
+    "Notes": "BI 3009/60 - 5985 V 39 2/2",
+    "DashedNumber": "5985-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 5418,
+    "SetNumber": 6328,
+    "URL": "https://www.lego.com/biassets/bi/4115446.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4115446.png",
+    "Description": "Police Helitran",
+    "Notes": "BUILD.INS. 6328 TRUCK 1/3",
+    "DashedNumber": "6328-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 5419,
+    "SetNumber": 6328,
+    "URL": "https://www.lego.com/biassets/bi/4115447.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4115447.png",
+    "Description": "Police Helitran",
+    "Notes": "BUILD.INS.6328 HELICOPTER 2/3",
+    "DashedNumber": "6328-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 5420,
+    "SetNumber": 6328,
+    "URL": "https://www.lego.com/biassets/bi/4115448.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4115448.png",
+    "Description": "Police Helitran",
+    "Notes": "BUILD.INS.6328 FORE-CARR.3/3",
+    "DashedNumber": "6328-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 5432,
+    "SetNumber": 6332,
+    "URL": "https://www.lego.com/biassets/bi/4115459.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4115459.png",
+    "Description": "Police Headquarters",
+    "Notes": "BUILD.INS.6332 MAIN BUILD.1/7",
+    "DashedNumber": "6332-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 5433,
+    "SetNumber": 6332,
+    "URL": "https://www.lego.com/biassets/bi/4115460.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4115460.png",
+    "Description": "Police Headquarters",
+    "Notes": "BUILD.INS.6332 HELI-PLATF.2/7",
+    "DashedNumber": "6332-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 5434,
+    "SetNumber": 6332,
+    "URL": "https://www.lego.com/biassets/bi/4115461.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4115461.png",
+    "Description": "Police Headquarters",
+    "Notes": "BUILD.INS. 6332 PRISON   3/7",
+    "DashedNumber": "6332-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 5435,
+    "SetNumber": 6332,
+    "URL": "https://www.lego.com/biassets/bi/4115462.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4115462.png",
+    "Description": "Police Headquarters",
+    "Notes": "BUILD.INS.6332 HELICOPTER 4/7",
+    "DashedNumber": "6332-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 5436,
+    "SetNumber": 6332,
+    "URL": "https://www.lego.com/biassets/bi/4115463.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4115463.png",
+    "Description": "Police Headquarters",
+    "Notes": "BUILD.INS.6332 POLICE CAR 5/7",
+    "DashedNumber": "6332-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 5437,
+    "SetNumber": 6332,
+    "URL": "https://www.lego.com/biassets/bi/4115464.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4115464.png",
+    "Description": "Police Headquarters",
+    "Notes": "BUILD.INS.6332 POLICE MC 6/7",
+    "DashedNumber": "6332-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 5438,
+    "SetNumber": 6332,
+    "URL": "https://www.lego.com/biassets/bi/4115465.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4115465.png",
+    "Description": "Police Headquarters",
+    "Notes": "BUILD.INS. 6332 SIDE WING 7/7",
+    "DashedNumber": "6332-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 5473,
+    "SetNumber": 6433,
+    "URL": "https://www.lego.com/biassets/bi/4123537.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4123537.png",
+    "Description": "Police Harbour Patrol",
+    "Notes": "BUILD.INST.6433 POLICEBOAT 1/2",
+    "DashedNumber": "6433-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 5474,
+    "SetNumber": 6433,
+    "URL": "https://www.lego.com/biassets/bi/4123538.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4123538.png",
+    "Description": "Police Harbour Patrol",
+    "Notes": "BUI.IN.6433 UPPER BRIDGE 2/2",
+    "DashedNumber": "6433-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 5547,
+    "SetNumber": 6483,
+    "URL": "https://www.lego.com/biassets/bi/877007.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/877007.png",
+    "Description": "POLICE BOAT WITH ES",
+    "Notes": "No longer listed at LEGO.com",
+    "DashedNumber": "6483-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 5615,
+    "SetNumber": 6598,
+    "URL": "https://www.lego.com/biassets/bi/4103739.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4103739.png",
+    "Description": "POLICE STATION",
+    "Notes": "BUILDING INSTR. 6598 IN",
+    "DashedNumber": "6598-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 5632,
+    "SetNumber": 6636,
+    "URL": "https://www.lego.com/biassets/bi/4193420.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4193420.png",
+    "Description": "POLICE HEADQUARTER",
+    "Notes": "BI 6636 HOVEDBYGNING 1/7",
+    "DashedNumber": "6636-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 5633,
+    "SetNumber": 6636,
+    "URL": "https://www.lego.com/biassets/bi/4193427.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4193427.png",
+    "Description": "POLICE HEADQUARTER",
+    "Notes": "BI 6636 FÆNGSEL 3/7",
+    "DashedNumber": "6636-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 5634,
+    "SetNumber": 6636,
+    "URL": "https://www.lego.com/biassets/bi/4193429.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4193429.png",
+    "Description": "POLICE HEADQUARTER",
+    "Notes": "BI 6636 POLICE MOTOR CYCLE 6/7",
+    "DashedNumber": "6636-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 5635,
+    "SetNumber": 6636,
+    "URL": "https://www.lego.com/biassets/bi/4193432.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4193432.png",
+    "Description": "POLICE HEADQUARTER",
+    "Notes": "BI 6636 SIDEBYGNING 7/7",
+    "DashedNumber": "6636-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 5636,
+    "SetNumber": 6636,
+    "URL": "https://www.lego.com/biassets/bi/4193246.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4193246.png",
+    "Description": "POLICE HEADQUARTER",
+    "Notes": "BI 6636 HELIKOPTERPLATFORM 2/7",
+    "DashedNumber": "6636-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 5637,
+    "SetNumber": 6636,
+    "URL": "https://www.lego.com/biassets/bi/4193247.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4193247.png",
+    "Description": "POLICE HEADQUARTER",
+    "Notes": "BI 6636 HELICOPTER 4/7",
+    "DashedNumber": "6636-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 5638,
+    "SetNumber": 6636,
+    "URL": "https://www.lego.com/biassets/bi/4193248.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4193248.png",
+    "Description": "POLICE HEADQUARTER",
+    "Notes": "BI 6636 POLICE CAR 5/7",
+    "DashedNumber": "6636-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 4141,
+    "SetNumber": 7031,
+    "URL": "https://www.lego.com/biassets/bi/4209780.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4209780.png",
+    "Description": "Police Helicopter",
+    "Notes": "BI 7031",
+    "DashedNumber": "7031-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 4145,
+    "SetNumber": 7035,
+    "URL": "https://www.lego.com/biassets/bi/4209791.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4209791.png",
+    "Description": "Police HQ",
+    "Notes": "BI 7035",
+    "DashedNumber": "7035-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 4361,
+    "SetNumber": 7235,
+    "URL": "https://www.lego.com/biassets/bi/4269708.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4269708.png",
+    "Description": "Police Motorcycle",
+    "Notes": "BI, 7235 NA",
+    "DashedNumber": "7235-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 4363,
+    "SetNumber": 7235,
+    "URL": "https://www.lego.com/biassets/bi/4639192.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4639192.png",
+    "Description": "Police Motorcycle",
+    "Notes": "BUILDING INSTR  006 - 7235 IN",
+    "DashedNumber": "7235-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 4364,
+    "SetNumber": 7235,
+    "URL": "https://www.lego.com/biassets/bi/4648646.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4648646.png",
+    "Description": "Police Motorcycle",
+    "Notes": "BUILDING INSTR  006 - 7235 NA",
+    "DashedNumber": "7235-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 4365,
+    "SetNumber": 7236,
+    "URL": "https://www.lego.com/biassets/bi/4265053.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4265053.png",
+    "Description": "Police Car",
+    "Notes": "BI, 7236 IN",
+    "DashedNumber": "7236-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 4366,
+    "SetNumber": 7236,
+    "URL": "https://www.lego.com/biassets/bi/4269709.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4269709.png",
+    "Description": "Police Car",
+    "Notes": "BI, 7236 NA",
+    "DashedNumber": "7236-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 4367,
+    "SetNumber": 7237,
+    "URL": "https://www.lego.com/biassets/bi/4269704.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4269704.png",
+    "Description": "Police Station",
+    "Notes": "BI, 7237 NA",
+    "DashedNumber": "7237-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 4368,
+    "SetNumber": 7237,
+    "URL": "https://www.lego.com/biassets/bi/4266163.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4266163.png",
+    "Description": "Police Station",
+    "Notes": "BI 7237bag1",
+    "DashedNumber": "7237-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 4369,
+    "SetNumber": 7237,
+    "URL": "https://www.lego.com/biassets/bi/4266164.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4266164.png",
+    "Description": "Police Station",
+    "Notes": "BI 7237bag2",
+    "DashedNumber": "7237-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 4370,
+    "SetNumber": 7237,
+    "URL": "https://www.lego.com/biassets/bi/4266169.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4266169.png",
+    "Description": "Police Station",
+    "Notes": "BUILDINGINSTR.7237bag3",
+    "DashedNumber": "7237-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 4371,
+    "SetNumber": 7237,
+    "URL": "https://www.lego.com/biassets/bi/4266170.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4266170.png",
+    "Description": "Police Station",
+    "Notes": "BUILDING INSTRUC. 7237 bag 4",
+    "DashedNumber": "7237-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 4372,
+    "SetNumber": 7237,
+    "URL": "https://www.lego.com/biassets/bi/4266171.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4266171.png",
+    "Description": "Police Station",
+    "Notes": "Building Instruction7237bag 5",
+    "DashedNumber": "7237-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 4373,
+    "SetNumber": 7237,
+    "URL": "https://www.lego.com/biassets/bi/4266172.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4266172.png",
+    "Description": "Police Station",
+    "Notes": "Building instruction 7237 bag6",
+    "DashedNumber": "7237-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 4374,
+    "SetNumber": 7237,
+    "URL": "https://www.lego.com/biassets/bi/4266173.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4266173.png",
+    "Description": "Police Station",
+    "Notes": "BUILDINGINSTR.7237 bag 7",
+    "DashedNumber": "7237-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 4375,
+    "SetNumber": 7237,
+    "URL": "https://www.lego.com/biassets/bi/4266174.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4266174.png",
+    "Description": "Police Station",
+    "Notes": "BI,  7237 IN",
+    "DashedNumber": "7237-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 4376,
+    "SetNumber": 7237,
+    "URL": "https://www.lego.com/biassets/bi/4494029.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4494029.png",
+    "Description": "Police Station",
+    "Notes": "BI 7237bag1",
+    "DashedNumber": "7237-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 4453,
+    "SetNumber": 7279,
+    "URL": "https://www.lego.com/biassets/bi/4656044.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4656044.png",
+    "Description": "Police Minifigure Collection",
+    "Notes": "BI 3001/24 - 7279 IN",
+    "DashedNumber": "7279-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 4454,
+    "SetNumber": 7279,
+    "URL": "https://www.lego.com/biassets/bi/4656045.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4656045.png",
+    "Description": "Police Minifigure Collection",
+    "Notes": "BI 3001/24 - 7279 NA",
+    "DashedNumber": "7279-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 4461,
+    "SetNumber": 7285,
+    "URL": "https://www.lego.com/biassets/bi/4656051.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4656051.png",
+    "Description": "Police Dog Unit",
+    "Notes": "BI 3001/32 - 7285 V. 29",
+    "DashedNumber": "7285-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 4462,
+    "SetNumber": 7285,
+    "URL": "https://www.lego.com/biassets/bi/4656052.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4656052.png",
+    "Description": "Police Dog Unit",
+    "Notes": "BI 3001/32 - 7285 V. 39",
+    "DashedNumber": "7285-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 4469,
+    "SetNumber": 7287,
+    "URL": "https://www.lego.com/biassets/bi/4656086.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4656086.png",
+    "Description": "Police Boat",
+    "Notes": "BI 3006/60 - 7287 IN",
+    "DashedNumber": "7287-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 4470,
+    "SetNumber": 7287,
+    "URL": "https://www.lego.com/biassets/bi/4656089.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4656089.png",
+    "Description": "Police Boat",
+    "Notes": "BI 3006/60 - 7287 NA",
+    "DashedNumber": "7287-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 4471,
+    "SetNumber": 7288,
+    "URL": "https://www.lego.com/biassets/bi/4656096.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4656096.png",
+    "Description": "Mobile Police Unit",
+    "Notes": "BI 3004/32 - 7288 2/3 V. 29/39",
+    "DashedNumber": "7288-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 4472,
+    "SetNumber": 7288,
+    "URL": "https://www.lego.com/biassets/bi/4656098.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4656098.png",
+    "Description": "Mobile Police Unit",
+    "Notes": "BI 3004/32 - 7288 2/3 V. 29/39",
+    "DashedNumber": "7288-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 4473,
+    "SetNumber": 7288,
+    "URL": "https://www.lego.com/biassets/bi/4656101.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4656101.png",
+    "Description": "Mobile Police Unit",
+    "Notes": "BI 3010/24 - 7288 V. 29 1/3",
+    "DashedNumber": "7288-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 4474,
+    "SetNumber": 7288,
+    "URL": "https://www.lego.com/biassets/bi/4656103.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4656103.png",
+    "Description": "Mobile Police Unit",
+    "Notes": "BI 3010/24 - 7288 V. 39 1/3",
+    "DashedNumber": "7288-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 4477,
+    "SetNumber": 7288,
+    "URL": "https://www.lego.com/biassets/bi/4619318.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4619318.png",
+    "Description": "Mobile Police Unit",
+    "Notes": "No longer listed at LEGO.com",
+    "DashedNumber": "7288-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 4478,
+    "SetNumber": 7288,
+    "URL": "https://www.lego.com/biassets/bi/4624725.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4624725.png",
+    "Description": "Mobile Police Unit",
+    "Notes": "No longer listed at LEGO.com",
+    "DashedNumber": "7288-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 4481,
+    "SetNumber": 7288,
+    "URL": "https://www.lego.com/biassets/bi/6050952.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6050952.png",
+    "Description": "Mobile Police Unit",
+    "Notes": "BI 3017 / 60 - 65g, 7288 3/3 V39",
+    "DashedNumber": "7288-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 4482,
+    "SetNumber": 7288,
+    "URL": "https://www.lego.com/biassets/bi/6050951.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6050951.png",
+    "Description": "Mobile Police Unit",
+    "Notes": "BI 3017 / 60 - 65g, 7288 V29 3/3",
+    "DashedNumber": "7288-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 4483,
+    "SetNumber": 7288,
+    "URL": "https://www.lego.com/biassets/bi/6045474.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6045474.png",
+    "Description": "Mobile Police Unit",
+    "Notes": "No longer listed at LEGO.com",
+    "DashedNumber": "7288-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 4484,
+    "SetNumber": 7288,
+    "URL": "https://www.lego.com/biassets/bi/6045473.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6045473.png",
+    "Description": "Mobile Police Unit",
+    "Notes": "No longer listed at LEGO.com",
+    "DashedNumber": "7288-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 4608,
+    "SetNumber": 7498,
+    "URL": "https://www.lego.com/biassets/bi/4618560.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4618560.png",
+    "Description": "Police Station",
+    "Notes": "BI 3004/20 - 7498 V.29 1/4",
+    "DashedNumber": "7498-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 4609,
+    "SetNumber": 7498,
+    "URL": "https://www.lego.com/biassets/bi/4618561.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4618561.png",
+    "Description": "Police Station",
+    "Notes": "BI 3004/20 - 7498 V.39 1/4",
+    "DashedNumber": "7498-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 4610,
+    "SetNumber": 7498,
+    "URL": "https://www.lego.com/biassets/bi/4617558.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4617558.png",
+    "Description": "Police Station",
+    "Notes": "BI 3006/80+4-7498 3/4 V. 29/39",
+    "DashedNumber": "7498-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 4612,
+    "SetNumber": 7498,
+    "URL": "https://www.lego.com/biassets/bi/4656338.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4656338.png",
+    "Description": "Police Station",
+    "Notes": "BI 3004/20 - 7498 2/4 V. 29/39",
+    "DashedNumber": "7498-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 4613,
+    "SetNumber": 7498,
+    "URL": "https://www.lego.com/biassets/bi/4656339.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4656339.png",
+    "Description": "Police Station",
+    "Notes": "BI 3004/20 - 7498 2/4 V. 29/39",
+    "DashedNumber": "7498-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 4616,
+    "SetNumber": 7498,
+    "URL": "https://www.lego.com/biassets/bi/6003717.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6003717.png",
+    "Description": "Police Station",
+    "Notes": "BI 3006/80+4*-7498 4/4 V.29/39",
+    "DashedNumber": "7498-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 4617,
+    "SetNumber": 7498,
+    "URL": "https://www.lego.com/biassets/bi/6003723.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6003723.png",
+    "Description": "Police Station",
+    "Notes": "BI 3006/80+4*-7498 4/4 V.29/39",
+    "DashedNumber": "7498-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 4618,
+    "SetNumber": 7498,
+    "URL": "https://www.lego.com/biassets/bi/4625125.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4625125.png",
+    "Description": "Police Station",
+    "Notes": "BI 3006/80+4-7498 3/4 V. 29/39",
+    "DashedNumber": "7498-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 4804,
+    "SetNumber": 7611,
+    "URL": "https://www.lego.com/biassets/bi/4530765.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4530765.png",
+    "Description": "Police Car",
+    "Notes": "BUILD.INSTRUC. 2001, 7611",
+    "DashedNumber": "7611-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 5819,
+    "SetNumber": 4012,
+    "URL": "https://www.lego.com/biassets/bi/4101161.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4101161.png",
+    "Description": "POLICE BOAT",
+    "Notes": "No longer listed at LEGO.com",
+    "DashedNumber": "4012-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 5958,
+    "SetNumber": 4304,
+    "URL": "https://www.lego.com/biassets/bi/4124660.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4124660.png",
+    "Description": "POLICE MC  6324",
+    "Notes": "No longer listed at LEGO.com",
+    "DashedNumber": "4304-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 2616,
+    "SetNumber": 7723,
+    "URL": "https://www.lego.com/biassets/bi/4524047.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4524047.png",
+    "Description": "Police Pontoon Plane",
+    "Notes": "BUILD. INSTR 3005, 7723 1/1 IN",
+    "DashedNumber": "7723-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 2617,
+    "SetNumber": 7723,
+    "URL": "https://www.lego.com/biassets/bi/4524048.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4524048.png",
+    "Description": "Police Pontoon Plane",
+    "Notes": "BUILD. INSTR 3005, 7723 1/1 NA",
+    "DashedNumber": "7723-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 2648,
+    "SetNumber": 7741,
+    "URL": "https://www.lego.com/biassets/bi/4639189.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4639189.png",
+    "Description": "Police Helicopter",
+    "Notes": "BI 3004/40 - 7741 IN",
+    "DashedNumber": "7741-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 2649,
+    "SetNumber": 7741,
+    "URL": "https://www.lego.com/biassets/bi/4639191.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4639191.png",
+    "Description": "Police Helicopter",
+    "Notes": "BI 3004/40 - 7741 NA",
+    "DashedNumber": "7741-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 2650,
+    "SetNumber": 7743,
+    "URL": "https://www.lego.com/biassets/bi/4524049.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4524049.png",
+    "Description": "Police Command Center",
+    "Notes": "BUILD INSTR 3006, 7743 2/2 IN",
+    "DashedNumber": "7743-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 2651,
+    "SetNumber": 7743,
+    "URL": "https://www.lego.com/biassets/bi/4524050.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4524050.png",
+    "Description": "Police Command Center",
+    "Notes": "BUILD INSTR 3006, 7743 2/2 NA",
+    "DashedNumber": "7743-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 2652,
+    "SetNumber": 7743,
+    "URL": "https://www.lego.com/biassets/bi/4524051.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4524051.png",
+    "Description": "Police Command Center",
+    "Notes": "BUILD INSTR, 7743 1/2 GLOBAL",
+    "DashedNumber": "7743-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 2653,
+    "SetNumber": 7744,
+    "URL": "https://www.lego.com/biassets/bi/4527780.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4527780.png",
+    "Description": "Police Headquarters",
+    "Notes": "BUILD INSTR 3001, 7744 1/4",
+    "DashedNumber": "7744-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 2654,
+    "SetNumber": 7744,
+    "URL": "https://www.lego.com/biassets/bi/4527781.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4527781.png",
+    "Description": "Police Headquarters",
+    "Notes": "BUILD INSTR 3001, 7744 2/4",
+    "DashedNumber": "7744-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 2656,
+    "SetNumber": 7744,
+    "URL": "https://www.lego.com/biassets/bi/4529040.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4529040.png",
+    "Description": "Police Headquarters",
+    "Notes": "BUILD. INSTR. 3006, 7744 4/4",
+    "DashedNumber": "7744-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 2657,
+    "SetNumber": 7744,
+    "URL": "https://www.lego.com/biassets/bi/4538770.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4538770.png",
+    "Description": "Police Headquarters",
+    "Notes": "BUILD. INSTR 3006, 7744 3/4",
+    "DashedNumber": "7744-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 2832,
+    "SetNumber": 7899,
+    "URL": "https://www.lego.com/biassets/bi/4298051.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4298051.png",
+    "Description": "Police Boat",
+    "Notes": "BI  1/2 7899",
+    "DashedNumber": "7899-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 2833,
+    "SetNumber": 7899,
+    "URL": "https://www.lego.com/biassets/bi/4492838.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4492838.png",
+    "Description": "Police Boat",
+    "Notes": "BUILDING INSTRUC, 2/2 7899 IN",
+    "DashedNumber": "7899-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 2834,
+    "SetNumber": 7899,
+    "URL": "https://www.lego.com/biassets/bi/4492839.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4492839.png",
+    "Description": "Police Boat",
+    "Notes": "BUILDING INSTRUC, 2/2 7899 NA",
+    "DashedNumber": "7899-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 2923,
+    "SetNumber": 7942,
+    "URL": "https://www.lego.com/biassets/bi/4586971.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4586971.png",
+    "Description": "Police/Fire 1",
+    "Notes": "BI 3004/24 - 7942 V.29",
+    "DashedNumber": "7942-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 1274,
+    "SetNumber": 3648,
+    "URL": "https://www.lego.com/biassets/bi/4625462.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4625462.png",
+    "Description": "Police Chase",
+    "Notes": "BI 3010/32 - 3648 V.29/39 2/2",
+    "DashedNumber": "3648-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 1275,
+    "SetNumber": 3648,
+    "URL": "https://www.lego.com/biassets/bi/4625460.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4625460.png",
+    "Description": "Police Chase",
+    "Notes": "BI 3010/32 - 3648 V. 29 1/2",
+    "DashedNumber": "3648-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 1276,
+    "SetNumber": 3648,
+    "URL": "https://www.lego.com/biassets/bi/4625461.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4625461.png",
+    "Description": "Police Chase",
+    "Notes": "BI 3010/32 - 3648 V. 39 1/2",
+    "DashedNumber": "3648-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 1277,
+    "SetNumber": 3648,
+    "URL": "https://www.lego.com/biassets/bi/4625463.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4625463.png",
+    "Description": "Police Chase",
+    "Notes": "BI 3010/32 - 3648 V.29/39 2/2",
+    "DashedNumber": "3648-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 1278,
+    "SetNumber": 3658,
+    "URL": "https://www.lego.com/biassets/bi/4625468.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4625468.png",
+    "Description": "Police Helicopter",
+    "Notes": "BI 3005/60 - 3658 V. 29/39 2/2",
+    "DashedNumber": "3658-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 1279,
+    "SetNumber": 3658,
+    "URL": "https://www.lego.com/biassets/bi/4625464.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4625464.png",
+    "Description": "Police Helicopter",
+    "Notes": "BI 3010/24 - 3658 V. 29 1/2",
+    "DashedNumber": "3658-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 1280,
+    "SetNumber": 3658,
+    "URL": "https://www.lego.com/biassets/bi/4625466.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4625466.png",
+    "Description": "Police Helicopter",
+    "Notes": "BI 3010/24 - 3658 V. 39 1/2",
+    "DashedNumber": "3658-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 1281,
+    "SetNumber": 3658,
+    "URL": "https://www.lego.com/biassets/bi/4625467.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4625467.png",
+    "Description": "Police Helicopter",
+    "Notes": "BI 3005/60 - 3658 V. 29/39 2/2",
+    "DashedNumber": "3658-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 1457,
+    "SetNumber": 8230,
+    "URL": "https://www.lego.com/biassets/bi/4101169.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4101169.png",
+    "Description": "POLICE CAR",
+    "Notes": "BUILDING INSTR. 8230 IN",
+    "DashedNumber": "8230-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 1476,
+    "SetNumber": 8252,
+    "URL": "https://www.lego.com/biassets/bi/4124624.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4124624.png",
+    "Description": "Police Buggy",
+    "Notes": "BUILD.INST. FOR 8252",
+    "DashedNumber": "8252-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 6026,
+    "SetNumber": 4436,
+    "URL": "https://www.lego.com/biassets/bi/6020958.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6020958.png",
+    "Description": "Co-Pack LEGO City Police dans la forèt",
+    "Notes": "BI 3003/32-4436 V29",
+    "DashedNumber": "4436-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 6029,
+    "SetNumber": 4437,
+    "URL": "https://www.lego.com/biassets/bi/6000144.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6000144.png",
+    "Description": "Police Pursuit",
+    "Notes": "No longer listed at LEGO.com",
+    "DashedNumber": "4437-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 6030,
+    "SetNumber": 4437,
+    "URL": "https://www.lego.com/biassets/bi/6000141.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6000141.png",
+    "Description": "Co-Pack LEGO City Police dans la forèt",
+    "Notes": "BI 3004/52 - 4437 V.29",
+    "DashedNumber": "4437-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 6031,
+    "SetNumber": 4437,
+    "URL": "https://www.lego.com/biassets/bi/6084383.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6084383.png",
+    "Description": "Police Pursuit",
+    "Notes": "BI 3004/52 - 4437 V.29",
+    "DashedNumber": "4437-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 6032,
+    "SetNumber": 4437,
+    "URL": "https://www.lego.com/biassets/bi/6084384.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6084384.png",
+    "Description": "Police Pursuit",
+    "Notes": "BI 3004/52 - 4437 V39",
+    "DashedNumber": "4437-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 6037,
+    "SetNumber": 4439,
+    "URL": "https://www.lego.com/biassets/bi/6002452.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6002452.png",
+    "Description": "VP City Police 1",
+    "Notes": "BI 3019 / 60 - 65g-4439 V29 1/2",
+    "DashedNumber": "4439-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 6039,
+    "SetNumber": 4439,
+    "URL": "https://www.lego.com/biassets/bi/6002456.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6002456.png",
+    "Description": "VP City Police 1",
+    "Notes": "BI 3019/52-65G-4439 V29 2/2",
+    "DashedNumber": "4439-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 6042,
+    "SetNumber": 4440,
+    "URL": "https://www.lego.com/biassets/bi/6002597.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6002597.png",
+    "Description": "Forest Police Station",
+    "Notes": "BI 3004/24 -4440 V39 2/5",
+    "DashedNumber": "4440-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 6043,
+    "SetNumber": 4440,
+    "URL": "https://www.lego.com/biassets/bi/6002594.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6002594.png",
+    "Description": "Forest Police Station",
+    "Notes": "BI 3004/32 -4440 V29 1/5",
+    "DashedNumber": "4440-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 6044,
+    "SetNumber": 4440,
+    "URL": "https://www.lego.com/biassets/bi/6002595.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6002595.png",
+    "Description": "Forest Police Station",
+    "Notes": "BI 3004/32 -4440 V39 1/5",
+    "DashedNumber": "4440-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 6045,
+    "SetNumber": 4440,
+    "URL": "https://www.lego.com/biassets/bi/6002599.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6002599.png",
+    "Description": "Forest Police Station",
+    "Notes": "BI 3004/48 -4440 V29 3/5",
+    "DashedNumber": "4440-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 6046,
+    "SetNumber": 4440,
+    "URL": "https://www.lego.com/biassets/bi/6002600.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6002600.png",
+    "Description": "Forest Police Station",
+    "Notes": "BI 3004/48 -4440 V39 3/5",
+    "DashedNumber": "4440-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 6047,
+    "SetNumber": 4440,
+    "URL": "https://www.lego.com/biassets/bi/6002601.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6002601.png",
+    "Description": "Forest Police Station",
+    "Notes": "No longer listed at LEGO.com",
+    "DashedNumber": "4440-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 6048,
+    "SetNumber": 4440,
+    "URL": "https://www.lego.com/biassets/bi/6002603.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6002603.png",
+    "Description": "Forest Police Station",
+    "Notes": "No longer listed at LEGO.com",
+    "DashedNumber": "4440-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 6049,
+    "SetNumber": 4440,
+    "URL": "https://www.lego.com/biassets/bi/6020945.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6020945.png",
+    "Description": "Forest Police Station",
+    "Notes": "BI 3004/24 -4440 V29 2/5",
+    "DashedNumber": "4440-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 6050,
+    "SetNumber": 4440,
+    "URL": "https://www.lego.com/biassets/bi/6013214.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6013214.png",
+    "Description": "Forest Police Station",
+    "Notes": "BI 3005/60 - 4440 V29 5/5",
+    "DashedNumber": "4440-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 6051,
+    "SetNumber": 4440,
+    "URL": "https://www.lego.com/biassets/bi/6013216.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6013216.png",
+    "Description": "Forest Police Station",
+    "Notes": "BI 3005/60 - 4440 V39 5/5",
+    "DashedNumber": "4440-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 6052,
+    "SetNumber": 4440,
+    "URL": "https://www.lego.com/biassets/bi/6045426.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6045426.png",
+    "Description": "Forest Police Station",
+    "Notes": "BI 3017 / 44 - 65g, 4440 V29 4/5",
+    "DashedNumber": "4440-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 6053,
+    "SetNumber": 4440,
+    "URL": "https://www.lego.com/biassets/bi/6045428.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6045428.png",
+    "Description": "Forest Police Station",
+    "Notes": "BI 3017 / 44 - 65g, 4440 V39 4/5",
+    "DashedNumber": "4440-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 6054,
+    "SetNumber": 4441,
+    "URL": "https://www.lego.com/biassets/bi/6013619.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6013619.png",
+    "Description": "VP City Police 1",
+    "Notes": "BI 3004 60/ - 4441 V29 2/2",
+    "DashedNumber": "4441-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 6055,
+    "SetNumber": 4441,
+    "URL": "https://www.lego.com/biassets/bi/6013620.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6013620.png",
+    "Description": "Police Dog Van",
+    "Notes": "BI 3004 60/ - 4441 V39 2/2",
+    "DashedNumber": "4441-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 6056,
+    "SetNumber": 4441,
+    "URL": "https://www.lego.com/biassets/bi/6013617.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6013617.png",
+    "Description": "VP City Police 1",
+    "Notes": "BI 3004/36 - 4441 V29 1/2",
+    "DashedNumber": "4441-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 6057,
+    "SetNumber": 4441,
+    "URL": "https://www.lego.com/biassets/bi/6013618.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6013618.png",
+    "Description": "Police Dog Van",
+    "Notes": "BI 3004/36 - 4441 V39 1/2",
+    "DashedNumber": "4441-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 6059,
+    "SetNumber": 4473,
+    "URL": "https://www.lego.com/biassets/bi/6012602.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6012602.png",
+    "Description": "Police Helicopter",
+    "Notes": "BI 3003/36- 4473 V46",
+    "DashedNumber": "4473-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 6224,
+    "SetNumber": 4636,
+    "URL": "https://www.lego.com/biassets/bi/4668516.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4668516.png",
+    "Description": "Police Building Set",
+    "Notes": "BI 3010/32,4636 V29",
+    "DashedNumber": "4636-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 6225,
+    "SetNumber": 4636,
+    "URL": "https://www.lego.com/biassets/bi/4668517.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4668517.png",
+    "Description": "Police Building Set",
+    "Notes": "BI 3010/32,4636 V39",
+    "DashedNumber": "4636-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 6261,
+    "SetNumber": 4666,
+    "URL": "https://www.lego.com/biassets/bi/4247683.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4247683.png",
+    "Description": "Speedy Police Car",
+    "Notes": "BI, 4666 NA",
+    "DashedNumber": "4666-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 6267,
+    "SetNumber": 4669,
+    "URL": "https://www.lego.com/biassets/bi/4228108.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4228108.png",
+    "Description": "Turbo-charged Police Boat",
+    "Notes": "BI 4669 NA",
+    "DashedNumber": "4669-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 6457,
+    "SetNumber": 4897,
+    "URL": "https://www.lego.com/biassets/bi/4534637.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4534637.png",
+    "Description": "Police Trike",
+    "Notes": "BUILD. INSTR. 2001, 4897 IN",
+    "DashedNumber": "4897-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 6471,
+    "SetNumber": 4912,
+    "URL": "https://www.lego.com/biassets/bi/4286451.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4286451.png",
+    "Description": "Police Boat",
+    "Notes": "No longer listed at LEGO.com",
+    "DashedNumber": "4912-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 6472,
+    "SetNumber": 4912,
+    "URL": "https://www.lego.com/biassets/bi/4285692.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4285692.png",
+    "Description": "Police Boat",
+    "Notes": "No longer listed at LEGO.com",
+    "DashedNumber": "4912-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 6487,
+    "SetNumber": 4934,
+    "URL": "https://www.lego.com/biassets/bi/4299671.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4299671.png",
+    "Description": "Police Swamp Boat",
+    "Notes": "No longer listed at LEGO.com",
+    "DashedNumber": "4934-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 6488,
+    "SetNumber": 4934,
+    "URL": "https://www.lego.com/biassets/bi/4299683.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4299683.png",
+    "Description": "Police Swamp Boat",
+    "Notes": "No longer listed at LEGO.com",
+    "DashedNumber": "4934-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 6534,
+    "SetNumber": 4965,
+    "URL": "https://www.lego.com/biassets/bi/4494836.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4494836.png",
+    "Description": "Police Action",
+    "Notes": "BUILDING INTRUCTION 4965",
+    "DashedNumber": "4965-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 6540,
+    "SetNumber": 4977,
+    "URL": "https://www.lego.com/biassets/bi/4560394.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4560394.png",
+    "Description": "Value Pack LEGOVille Police",
+    "Notes": "No longer listed at LEGO.com",
+    "DashedNumber": "4977-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 6548,
+    "SetNumber": 4991,
+    "URL": "https://www.lego.com/biassets/bi/4517033.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4517033.png",
+    "Description": "Police Helicopter",
+    "Notes": "BUILD. INSTR. 2001,4991 ver.90",
+    "DashedNumber": "4991-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 6549,
+    "SetNumber": 4991,
+    "URL": "https://www.lego.com/biassets/bi/4507835.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4507835.png",
+    "Description": "Police Helicopter",
+    "Notes": "BUILD. INSTR. 4991, ver. 29-39",
+    "DashedNumber": "4991-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 6637,
+    "SetNumber": 5602,
+    "URL": "https://www.lego.com/biassets/bi/4527355.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4527355.png",
+    "Description": "Value Pack LEGOVille Police",
+    "Notes": "BUILDING INSTRUC.3006,5602",
+    "DashedNumber": "5602-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 6649,
+    "SetNumber": 5610,
+    "URL": "https://www.lego.com/biassets/bi/4522912.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4522912.png",
+    "Description": "Police/Fire/Rescue",
+    "Notes": "BUILD INSTR  2001, 5610 IN",
+    "DashedNumber": "5610-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 6653,
+    "SetNumber": 5612,
+    "URL": "https://www.lego.com/biassets/bi/4522914.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4522914.png",
+    "Description": "Police Officer",
+    "Notes": "BUILD INSTR  2001,  5612 IN",
+    "DashedNumber": "5612-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 6654,
+    "SetNumber": 5612,
+    "URL": "https://www.lego.com/biassets/bi/4523836.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4523836.png",
+    "Description": "Police Officer",
+    "Notes": "BUILD INSTR 2001, 5612 NA",
+    "DashedNumber": "5612-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 6839,
+    "SetNumber": 10532,
+    "URL": "https://www.lego.com/biassets/bi/6073180.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6073180.png",
+    "Description": "My First Police Set",
+    "Notes": "INSPIRATIONAL MATERIAL - 10532 V29",
+    "DashedNumber": "10532-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 6840,
+    "SetNumber": 10532,
+    "URL": "https://www.lego.com/biassets/bi/6073181.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6073181.png",
+    "Description": "My First Police Set",
+    "Notes": "INSPIRATIONAL MATERIAL - 10532 V39",
+    "DashedNumber": "10532-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 6896,
+    "SetNumber": 10594,
+    "URL": "https://www.lego.com/biassets/bi/6114591.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6114591.png",
+    "Description": "Police Bike",
+    "Notes": "BI 3001/8,CROSSPRO LEAFLET 1HY 2015 V39",
+    "DashedNumber": "10594-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 6971,
+    "SetNumber": 10675,
+    "URL": "https://www.lego.com/biassets/bi/6072725.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6072725.png",
+    "Description": "Police – The Big Escape",
+    "Notes": "BI 3017 / 48 - 65g-10675 V29",
+    "DashedNumber": "10675-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 6972,
+    "SetNumber": 10675,
+    "URL": "https://www.lego.com/biassets/bi/6072726.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6072726.png",
+    "Description": "Police – The Big Escape",
+    "Notes": "BI 3017 / 48 - 65g-10675 V39",
+    "DashedNumber": "10675-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 7040,
+    "SetNumber": 10720,
+    "URL": "https://www.lego.com/biassets/bi/6149653.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6149653.png",
+    "Description": "Police Helicopter Chase",
+    "Notes": "BI 3003/32, 10720 V39",
+    "DashedNumber": "10720-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 7041,
+    "SetNumber": 10720,
+    "URL": "https://www.lego.com/biassets/bi/6149651.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6149651.png",
+    "Description": "Police Helicopter Chase",
+    "Notes": "BI 3003/32, 10720 V29",
+    "DashedNumber": "10720-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 7071,
+    "SetNumber": 10735,
+    "URL": "https://www.lego.com/biassets/bi/6182773.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6182773.png",
+    "Description": "Police Truck Chase",
+    "Notes": "BI 3004/48, 10735 V39",
+    "DashedNumber": "10735-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 7072,
+    "SetNumber": 10735,
+    "URL": "https://www.lego.com/biassets/bi/6182770.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6182770.png",
+    "Description": "Police Truck Chase",
+    "Notes": "BI 3004/48, 10735 V29",
+    "DashedNumber": "10735-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 7103,
+    "SetNumber": 10751,
+    "URL": "https://www.lego.com/biassets/bi/6219215.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6219215.png",
+    "Description": "Mountain Police Chase",
+    "Notes": "BI 3003, 60+4/65+115G, 10751 V39",
+    "DashedNumber": "10751-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 7104,
+    "SetNumber": 10751,
+    "URL": "https://www.lego.com/biassets/bi/6219214.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6219214.png",
+    "Description": "Mountain Police Chase",
+    "Notes": "BI 3003, 60+4/65+115G, 10751 V29",
+    "DashedNumber": "10751-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 7605,
+    "SetNumber": 30002,
+    "URL": "https://www.lego.com/biassets/bi/4563452.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4563452.png",
+    "Description": "Police Boat",
+    "Notes": "BI 2001/ 2 - 30002 V 29/70/111",
+    "DashedNumber": "30002-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 7606,
+    "SetNumber": 30002,
+    "URL": "https://www.lego.com/biassets/bi/4603213.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4603213.png",
+    "Description": "Police Boat",
+    "Notes": "BI 2001/ 2 - 30002 v91",
+    "DashedNumber": "30002-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 7607,
+    "SetNumber": 30002,
+    "URL": "https://www.lego.com/biassets/bi/4603215.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4603215.png",
+    "Description": "Police Boat",
+    "Notes": "BI 2001/ 2 - 30002 V140",
+    "DashedNumber": "30002-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 7629,
+    "SetNumber": 30011,
+    "URL": "https://www.lego.com/biassets/bi/4600299.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4600299.png",
+    "Description": "Police Dinghy",
+    "Notes": "BI 2001/ 2 -30011 V 29/110/112",
+    "DashedNumber": "30011-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 7632,
+    "SetNumber": 30013,
+    "URL": "https://www.lego.com/biassets/bi/4615063.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4615063.png",
+    "Description": "Police Quad",
+    "Notes": "BI 2001/ 2 - 30013 V141",
+    "DashedNumber": "30013-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 7633,
+    "SetNumber": 30013,
+    "URL": "https://www.lego.com/biassets/bi/4600306.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4600306.png",
+    "Description": "Police Quad",
+    "Notes": "BI 2001/ 2 -30013 V 29/110/112",
+    "DashedNumber": "30013-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 7634,
+    "SetNumber": 30013,
+    "URL": "https://www.lego.com/biassets/bi/4631617.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4631617.png",
+    "Description": "Police Quad",
+    "Notes": "No longer listed at LEGO.com",
+    "DashedNumber": "30013-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 7635,
+    "SetNumber": 30014,
+    "URL": "https://www.lego.com/biassets/bi/4631240.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4631240.png",
+    "Description": "Police helicopter",
+    "Notes": "BI 2001/ 2-30014 V. 29/110/111",
+    "DashedNumber": "30014-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 7636,
+    "SetNumber": 30014,
+    "URL": "https://www.lego.com/biassets/bi/4640028.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4640028.png",
+    "Description": "Police helicopter",
+    "Notes": "BI 2001/ 2 - 30014 V140",
+    "DashedNumber": "30014-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 7640,
+    "SetNumber": 30017,
+    "URL": "https://www.lego.com/biassets/bi/6011784.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6011784.png",
+    "Description": "Police Boat",
+    "Notes": "BI 2001/ 2 - 30017 V39",
+    "DashedNumber": "30017-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 7641,
+    "SetNumber": 30017,
+    "URL": "https://www.lego.com/biassets/bi/6002769.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6002769.png",
+    "Description": "Police Boat",
+    "Notes": "BI 2001/ 2 -30017 V29",
+    "DashedNumber": "30017-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 7642,
+    "SetNumber": 30018,
+    "URL": "https://www.lego.com/biassets/bi/6011785.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6011785.png",
+    "Description": "Police Plane",
+    "Notes": "BI 2001/ 2 - 30018 V39",
+    "DashedNumber": "30018-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 7643,
+    "SetNumber": 30018,
+    "URL": "https://www.lego.com/biassets/bi/6002772.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6002772.png",
+    "Description": "Police Plane",
+    "Notes": "BI 2001/ 2 -30018 V29",
+    "DashedNumber": "30018-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 7875,
+    "SetNumber": 30222,
+    "URL": "https://www.lego.com/biassets/bi/6036461.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6036461.png",
+    "Description": "Police Helicopter",
+    "Notes": "BI 2002/ 2 - 30222 V29",
+    "DashedNumber": "30222-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 7876,
+    "SetNumber": 30222,
+    "URL": "https://www.lego.com/biassets/bi/6036462.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6036462.png",
+    "Description": "Police Helicopter",
+    "Notes": "BI 2002/ 2 - 30222 V39",
+    "DashedNumber": "30222-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 7881,
+    "SetNumber": 30226,
+    "URL": "https://www.lego.com/biassets/bi/6074941.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6074941.png",
+    "Description": "Police helicopter",
+    "Notes": "BI 2002/ 2 - 30226 V29",
+    "DashedNumber": "30226-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 7882,
+    "SetNumber": 30226,
+    "URL": "https://www.lego.com/biassets/bi/6074942.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6074942.png",
+    "Description": "Police helicopter",
+    "Notes": "BI 2002/ 2 - 30226 V39",
+    "DashedNumber": "30226-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 7883,
+    "SetNumber": 30227,
+    "URL": "https://www.lego.com/biassets/bi/6074947.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6074947.png",
+    "Description": "Police Watercraft",
+    "Notes": "BI 2001/ 2 - 30227 V29",
+    "DashedNumber": "30227-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 7884,
+    "SetNumber": 30227,
+    "URL": "https://www.lego.com/biassets/bi/6074949.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6074949.png",
+    "Description": "Police Watercraft",
+    "Notes": "BI 2001/ 2 - 30227 V39",
+    "DashedNumber": "30227-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 7885,
+    "SetNumber": 30228,
+    "URL": "https://www.lego.com/biassets/bi/6074950.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6074950.png",
+    "Description": "Police ATV",
+    "Notes": "BI 2001/ 2 - 30228 V29",
+    "DashedNumber": "30228-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 7886,
+    "SetNumber": 30228,
+    "URL": "https://www.lego.com/biassets/bi/6074951.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6074951.png",
+    "Description": "Police ATV",
+    "Notes": "BI 2001/ 2 - 30228 V39",
+    "DashedNumber": "30228-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 7956,
+    "SetNumber": 30282,
+    "URL": "https://www.lego.com/biassets/bi/6092244.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6092244.png",
+    "Description": "Super Secret Police Enforcer",
+    "Notes": "BI 2002/ 2 - 30282 V 29",
+    "DashedNumber": "30282-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 7957,
+    "SetNumber": 30282,
+    "URL": "https://www.lego.com/biassets/bi/6092245.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6092245.png",
+    "Description": "Super Secret Police Enforcer",
+    "Notes": "BI 2002/ 2 - 30282 V 39",
+    "DashedNumber": "30282-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 7989,
+    "SetNumber": 30311,
+    "URL": "https://www.lego.com/biassets/bi/6109825.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6109825.png",
+    "Description": "Swamp Police Helicopter",
+    "Notes": "BI 2002/ 2 - 30311 V29",
+    "DashedNumber": "30311-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 7990,
+    "SetNumber": 30311,
+    "URL": "https://www.lego.com/biassets/bi/6109830.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6109830.png",
+    "Description": "Swamp Police Helicopter",
+    "Notes": "BI 2002/ 2 - 30311 V39",
+    "DashedNumber": "30311-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 8021,
+    "SetNumber": 30351,
+    "URL": "https://www.lego.com/biassets/bi/6188384.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6188384.png",
+    "Description": "Police Helicopter",
+    "Notes": "BI 2002/ 2-30351 V29",
+    "DashedNumber": "30351-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 8022,
+    "SetNumber": 30351,
+    "URL": "https://www.lego.com/biassets/bi/6188385.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6188385.png",
+    "Description": "Police Helicopter",
+    "Notes": "BI 2002/ 2-30351 V39",
+    "DashedNumber": "30351-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 8023,
+    "SetNumber": 30352,
+    "URL": "https://www.lego.com/biassets/bi/6188394.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6188394.png",
+    "Description": "Police Car",
+    "Notes": "BI 2002/ 2-30352 V29",
+    "DashedNumber": "30352-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 8024,
+    "SetNumber": 30352,
+    "URL": "https://www.lego.com/biassets/bi/6188399.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6188399.png",
+    "Description": "Police Car",
+    "Notes": "BI 2002/ 2-30352 V39",
+    "DashedNumber": "30352-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 8037,
+    "SetNumber": 30359,
+    "URL": "https://www.lego.com/biassets/bi/6222338.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6222338.png",
+    "Description": "Police Water Plane",
+    "Notes": "BI 2002/ 2, 30359 V29",
+    "DashedNumber": "30359-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 8038,
+    "SetNumber": 30359,
+    "URL": "https://www.lego.com/biassets/bi/6222340.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6222340.png",
+    "Description": "Police Water Plane",
+    "Notes": "BI 2002/ 2, 30359 V39",
+    "DashedNumber": "30359-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 9919,
+    "SetNumber": 42047,
+    "URL": "https://www.lego.com/biassets/bi/6143810.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6143810.png",
+    "Description": "Police Interceptor",
+    "Notes": "BI 3004/52, 42047 V29",
+    "DashedNumber": "42047-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 9920,
+    "SetNumber": 42047,
+    "URL": "https://www.lego.com/biassets/bi/6143811.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6143811.png",
+    "Description": "Police Interceptor",
+    "Notes": "BI 3004/52, 42047 V39",
+    "DashedNumber": "42047-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10136,
+    "SetNumber": 60006,
+    "URL": "https://www.lego.com/biassets/bi/6033459.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6033459.png",
+    "Description": "Police ATV",
+    "Notes": "No longer listed at LEGO.com",
+    "DashedNumber": "60006-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10137,
+    "SetNumber": 60006,
+    "URL": "https://www.lego.com/biassets/bi/6033461.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6033461.png",
+    "Description": "Police ATV",
+    "Notes": "No longer listed at LEGO.com",
+    "DashedNumber": "60006-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10138,
+    "SetNumber": 60006,
+    "URL": "https://www.lego.com/biassets/bi/6084381.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6084381.png",
+    "Description": "Police ATV",
+    "Notes": "BI 3001/20 -  60006 V29",
+    "DashedNumber": "60006-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10139,
+    "SetNumber": 60006,
+    "URL": "https://www.lego.com/biassets/bi/6084382.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6084382.png",
+    "Description": "Police ATV",
+    "Notes": "BI 3001/20 - 60006 V39",
+    "DashedNumber": "60006-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10297,
+    "SetNumber": 60041,
+    "URL": "https://www.lego.com/biassets/bi/6070335.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6070335.png",
+    "Description": "CITY Police Value Pack",
+    "Notes": "BI 3001/20 -60041 V29",
+    "DashedNumber": "60041-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10299,
+    "SetNumber": 60042,
+    "URL": "https://www.lego.com/biassets/bi/6070338.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6070338.png",
+    "Description": "High Speed Police Chase",
+    "Notes": "BI 3004/48 -60042 V39",
+    "DashedNumber": "60042-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10300,
+    "SetNumber": 60042,
+    "URL": "https://www.lego.com/biassets/bi/6070337.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6070337.png",
+    "Description": "CITY Police Value Pack",
+    "Notes": "BI 3004/48 -60042 V29",
+    "DashedNumber": "60042-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10303,
+    "SetNumber": 60044,
+    "URL": "https://www.lego.com/biassets/bi/6079390.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6079390.png",
+    "Description": "Mobile Police Unit",
+    "Notes": "BI 3004/48 - 60044 1/3 V29",
+    "DashedNumber": "60044-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10304,
+    "SetNumber": 60044,
+    "URL": "https://www.lego.com/biassets/bi/6079391.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6079391.png",
+    "Description": "Mobile Police Unit",
+    "Notes": "BI 3004/48 - 60044 1/3 V39",
+    "DashedNumber": "60044-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10305,
+    "SetNumber": 60044,
+    "URL": "https://www.lego.com/biassets/bi/6079396.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6079396.png",
+    "Description": "Mobile Police Unit",
+    "Notes": "No longer listed at LEGO.com",
+    "DashedNumber": "60044-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10306,
+    "SetNumber": 60044,
+    "URL": "https://www.lego.com/biassets/bi/6079398.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6079398.png",
+    "Description": "Mobile Police Unit",
+    "Notes": "No longer listed at LEGO.com",
+    "DashedNumber": "60044-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10307,
+    "SetNumber": 60044,
+    "URL": "https://www.lego.com/biassets/bi/6079393.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6079393.png",
+    "Description": "Mobile Police Unit",
+    "Notes": "No longer listed at LEGO.com",
+    "DashedNumber": "60044-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10308,
+    "SetNumber": 60044,
+    "URL": "https://www.lego.com/biassets/bi/6079392.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6079392.png",
+    "Description": "Mobile Police Unit",
+    "Notes": "No longer listed at LEGO.com",
+    "DashedNumber": "60044-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10309,
+    "SetNumber": 60044,
+    "URL": "https://www.lego.com/biassets/bi/6157966.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6157966.png",
+    "Description": "Mobile Police Unit",
+    "Notes": "BI 3017/48 65G, 60044 3/3 V29",
+    "DashedNumber": "60044-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10310,
+    "SetNumber": 60044,
+    "URL": "https://www.lego.com/biassets/bi/6157968.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6157968.png",
+    "Description": "Mobile Police Unit",
+    "Notes": "BI 3017/48-65G, 60044 3/3 V39",
+    "DashedNumber": "60044-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10311,
+    "SetNumber": 60044,
+    "URL": "https://www.lego.com/biassets/bi/6157963.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6157963.png",
+    "Description": "Mobile Police Unit",
+    "Notes": "BI 3017/56 65G, 60044 2/3 V29",
+    "DashedNumber": "60044-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10312,
+    "SetNumber": 60044,
+    "URL": "https://www.lego.com/biassets/bi/6157964.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6157964.png",
+    "Description": "Mobile Police Unit",
+    "Notes": "BI 3017/56-65G, 60044 2/3 V39",
+    "DashedNumber": "60044-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10313,
+    "SetNumber": 60045,
+    "URL": "https://www.lego.com/biassets/bi/6079406.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6079406.png",
+    "Description": "Police Patrol",
+    "Notes": "BI 3004/32 - 60045 1/4 V29",
+    "DashedNumber": "60045-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10314,
+    "SetNumber": 60045,
+    "URL": "https://www.lego.com/biassets/bi/6079410.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6079410.png",
+    "Description": "Police Patrol",
+    "Notes": "BI 3004/32 -60045 1/4 V39",
+    "DashedNumber": "60045-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10315,
+    "SetNumber": 60045,
+    "URL": "https://www.lego.com/biassets/bi/6079417.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6079417.png",
+    "Description": "Police Patrol",
+    "Notes": "BI 3004/40 - 60045 4/4 V29",
+    "DashedNumber": "60045-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10316,
+    "SetNumber": 60045,
+    "URL": "https://www.lego.com/biassets/bi/6079418.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6079418.png",
+    "Description": "Police Patrol",
+    "Notes": "BI 3004/40 - 60045 4/4 V39",
+    "DashedNumber": "60045-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10317,
+    "SetNumber": 60045,
+    "URL": "https://www.lego.com/biassets/bi/6079412.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6079412.png",
+    "Description": "Police Patrol",
+    "Notes": "BI 3004/44  - 60045 2/4 V29",
+    "DashedNumber": "60045-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10318,
+    "SetNumber": 60045,
+    "URL": "https://www.lego.com/biassets/bi/6079414.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6079414.png",
+    "Description": "Police Patrol",
+    "Notes": "BI 3004/44 - 60045 2/4 V39",
+    "DashedNumber": "60045-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10319,
+    "SetNumber": 60045,
+    "URL": "https://www.lego.com/biassets/bi/6079416.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6079416.png",
+    "Description": "Police Patrol",
+    "Notes": "BI 3004/64+4-65* - 60045 3/4 V39",
+    "DashedNumber": "60045-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10320,
+    "SetNumber": 60045,
+    "URL": "https://www.lego.com/biassets/bi/6079415.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6079415.png",
+    "Description": "Police Patrol",
+    "Notes": "BI 3004/64+4-65*- 60045 3/4 V29",
+    "DashedNumber": "60045-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10329,
+    "SetNumber": 60047,
+    "URL": "https://www.lego.com/biassets/bi/6074993.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6074993.png",
+    "Description": "Police Station",
+    "Notes": "No longer listed at LEGO.com",
+    "DashedNumber": "60047-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10330,
+    "SetNumber": 60047,
+    "URL": "https://www.lego.com/biassets/bi/6074996.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6074996.png",
+    "Description": "Police Station",
+    "Notes": "No longer listed at LEGO.com",
+    "DashedNumber": "60047-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10331,
+    "SetNumber": 60047,
+    "URL": "https://www.lego.com/biassets/bi/6075016.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6075016.png",
+    "Description": "Police Station",
+    "Notes": "No longer listed at LEGO.com",
+    "DashedNumber": "60047-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10332,
+    "SetNumber": 60047,
+    "URL": "https://www.lego.com/biassets/bi/6075015.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6075015.png",
+    "Description": "Police Station",
+    "Notes": "No longer listed at LEGO.com",
+    "DashedNumber": "60047-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10333,
+    "SetNumber": 60047,
+    "URL": "https://www.lego.com/biassets/bi/6074998.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6074998.png",
+    "Description": "Police Station",
+    "Notes": "BI 3004/40 - 60047 2/6 V29",
+    "DashedNumber": "60047-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10334,
+    "SetNumber": 60047,
+    "URL": "https://www.lego.com/biassets/bi/6074999.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6074999.png",
+    "Description": "Police Station",
+    "Notes": "BI 3004/40 - 60047 2/6 V39",
+    "DashedNumber": "60047-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10335,
+    "SetNumber": 60047,
+    "URL": "https://www.lego.com/biassets/bi/6075017.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6075017.png",
+    "Description": "Police Station",
+    "Notes": "BI 3016/52-65G 60047 4/6 V29",
+    "DashedNumber": "60047-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10336,
+    "SetNumber": 60047,
+    "URL": "https://www.lego.com/biassets/bi/6075018.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6075018.png",
+    "Description": "Police Station",
+    "Notes": "BI 3016/52-65G 60047 4/6 V39",
+    "DashedNumber": "60047-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10337,
+    "SetNumber": 60047,
+    "URL": "https://www.lego.com/biassets/bi/6075022.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6075022.png",
+    "Description": "Police Station",
+    "Notes": "BI 3016/68+4*- 60047 6/6 V29",
+    "DashedNumber": "60047-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10338,
+    "SetNumber": 60047,
+    "URL": "https://www.lego.com/biassets/bi/6075024.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6075024.png",
+    "Description": "Police Station",
+    "Notes": "BI 3016/68+4*- 60047 6/6 V39",
+    "DashedNumber": "60047-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10339,
+    "SetNumber": 60047,
+    "URL": "https://www.lego.com/biassets/bi/6075019.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6075019.png",
+    "Description": "Police Station",
+    "Notes": "BI 3016/72+4  60047 5/6 V29",
+    "DashedNumber": "60047-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10340,
+    "SetNumber": 60047,
+    "URL": "https://www.lego.com/biassets/bi/6075021.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6075021.png",
+    "Description": "Police Station",
+    "Notes": "BI 3016/72+4 60047 5/6 V39",
+    "DashedNumber": "60047-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10341,
+    "SetNumber": 60047,
+    "URL": "https://www.lego.com/biassets/bi/6157972.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6157972.png",
+    "Description": "Police Station",
+    "Notes": "BI 3004/16, 60047 1/6 V29",
+    "DashedNumber": "60047-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10342,
+    "SetNumber": 60047,
+    "URL": "https://www.lego.com/biassets/bi/6157974.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6157974.png",
+    "Description": "Police Station",
+    "Notes": "BI 3004/16, 60047 1/6 V39",
+    "DashedNumber": "60047-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10343,
+    "SetNumber": 60047,
+    "URL": "https://www.lego.com/biassets/bi/6157973.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6157973.png",
+    "Description": "Police Station",
+    "Notes": "BI 3004/28 60047 3/6 V29",
+    "DashedNumber": "60047-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10344,
+    "SetNumber": 60047,
+    "URL": "https://www.lego.com/biassets/bi/6157975.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6157975.png",
+    "Description": "Police Station",
+    "Notes": "BI 3004/28, 60047 3/6 V39",
+    "DashedNumber": "60047-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10345,
+    "SetNumber": 60048,
+    "URL": "https://www.lego.com/biassets/bi/6075025.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6075025.png",
+    "Description": "Police Dog Unit",
+    "Notes": "BI 3004/20 60048 1/3 V29",
+    "DashedNumber": "60048-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10346,
+    "SetNumber": 60048,
+    "URL": "https://www.lego.com/biassets/bi/6075026.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6075026.png",
+    "Description": "Police Dog Unit",
+    "Notes": "BI 3004/20 60048 1/3 V39",
+    "DashedNumber": "60048-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10347,
+    "SetNumber": 60048,
+    "URL": "https://www.lego.com/biassets/bi/6075029.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6075029.png",
+    "Description": "Police Dog Unit",
+    "Notes": "BI 3004/28 60048 3/3 V29",
+    "DashedNumber": "60048-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10348,
+    "SetNumber": 60048,
+    "URL": "https://www.lego.com/biassets/bi/6075031.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6075031.png",
+    "Description": "Police Dog Unit",
+    "Notes": "BI 3004/28 60048 3/3 V39",
+    "DashedNumber": "60048-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10349,
+    "SetNumber": 60048,
+    "URL": "https://www.lego.com/biassets/bi/6075027.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6075027.png",
+    "Description": "Police Dog Unit",
+    "Notes": "BI 3004/48 - 60048 2/3 V29",
+    "DashedNumber": "60048-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10350,
+    "SetNumber": 60048,
+    "URL": "https://www.lego.com/biassets/bi/6075028.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6075028.png",
+    "Description": "Police Dog Unit",
+    "Notes": "BI 3004/48 - 60048 2/3 V39",
+    "DashedNumber": "60048-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10500,
+    "SetNumber": 60066,
+    "URL": "https://www.lego.com/biassets/bi/6117273.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6117273.png",
+    "Description": "Swamp Police Starter set",
+    "Notes": "BI 3003/32-60066 V29",
+    "DashedNumber": "60066-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10501,
+    "SetNumber": 60066,
+    "URL": "https://www.lego.com/biassets/bi/6117274.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6117274.png",
+    "Description": "Swamp Police Starter set",
+    "Notes": "BI 3003/32-60066 V39",
+    "DashedNumber": "60066-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10514,
+    "SetNumber": 60069,
+    "URL": "https://www.lego.com/biassets/bi/6117231.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6117231.png",
+    "Description": "Swamp Police Station",
+    "Notes": "BI 3004/32 - 60069 V29 6/6",
+    "DashedNumber": "60069-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10515,
+    "SetNumber": 60069,
+    "URL": "https://www.lego.com/biassets/bi/6117258.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6117258.png",
+    "Description": "Swamp Police Station",
+    "Notes": "BI 3004/32 - 60069 V39 6/6",
+    "DashedNumber": "60069-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10516,
+    "SetNumber": 60069,
+    "URL": "https://www.lego.com/biassets/bi/6114280.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6114280.png",
+    "Description": "Swamp Police Station",
+    "Notes": "BI 3004/36-60069 V29 2/6",
+    "DashedNumber": "60069-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10517,
+    "SetNumber": 60069,
+    "URL": "https://www.lego.com/biassets/bi/6114281.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6114281.png",
+    "Description": "Swamp Police Station",
+    "Notes": "BI 3004/36-60069 V39 2/6",
+    "DashedNumber": "60069-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10518,
+    "SetNumber": 60069,
+    "URL": "https://www.lego.com/biassets/bi/6117224.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6117224.png",
+    "Description": "Swamp Police Station",
+    "Notes": "BI 3004/40 - 60069 V29 1/6",
+    "DashedNumber": "60069-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10519,
+    "SetNumber": 60069,
+    "URL": "https://www.lego.com/biassets/bi/6117242.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6117242.png",
+    "Description": "Swamp Police Station",
+    "Notes": "BI 3004/40 - 60069 V39 1/6",
+    "DashedNumber": "60069-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10520,
+    "SetNumber": 60069,
+    "URL": "https://www.lego.com/biassets/bi/6122486.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6122486.png",
+    "Description": "Swamp Police Station",
+    "Notes": "BI 3017 / 28 - 65 - 60069 V29 4/6",
+    "DashedNumber": "60069-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10521,
+    "SetNumber": 60069,
+    "URL": "https://www.lego.com/biassets/bi/6122487.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6122487.png",
+    "Description": "Swamp Police Station",
+    "Notes": "BI 3017 / 28 - 65 - 60069 V39 4/6",
+    "DashedNumber": "60069-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10522,
+    "SetNumber": 60069,
+    "URL": "https://www.lego.com/biassets/bi/6117226.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6117226.png",
+    "Description": "Swamp Police Station",
+    "Notes": "BI 3017 / 60 - 65g - 60069 V29 3/6",
+    "DashedNumber": "60069-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10523,
+    "SetNumber": 60069,
+    "URL": "https://www.lego.com/biassets/bi/6117249.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6117249.png",
+    "Description": "Swamp Police Station",
+    "Notes": "BI 3017 / 60 - 65g - 60069 V39 3/6",
+    "DashedNumber": "60069-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10524,
+    "SetNumber": 60069,
+    "URL": "https://www.lego.com/biassets/bi/6117229.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6117229.png",
+    "Description": "Swamp Police Station",
+    "Notes": "BI 3017 / 60+4 - 65/115g - 60069 v29 5/6",
+    "DashedNumber": "60069-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10525,
+    "SetNumber": 60069,
+    "URL": "https://www.lego.com/biassets/bi/6117257.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6117257.png",
+    "Description": "Swamp Police Station",
+    "Notes": "BI 3017 / 60+4 - 65/115g - 60069 V39 5/6",
+    "DashedNumber": "60069-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10931,
+    "SetNumber": 60128,
+    "URL": "https://www.lego.com/biassets/bi/6146006.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6146006.png",
+    "Description": "Police Pursuit",
+    "Notes": "BI 3004/40, 60128 1/2 V29",
+    "DashedNumber": "60128-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10932,
+    "SetNumber": 60128,
+    "URL": "https://www.lego.com/biassets/bi/6150573.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6150573.png",
+    "Description": "Police Pursuit",
+    "Notes": "BI 3004/44, 60128 2/2 V29",
+    "DashedNumber": "60128-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10933,
+    "SetNumber": 60128,
+    "URL": "https://www.lego.com/biassets/bi/6146007.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6146007.png",
+    "Description": "Police Pursuit",
+    "Notes": "BI 3004/40, 60128 1/2 V39",
+    "DashedNumber": "60128-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10934,
+    "SetNumber": 60128,
+    "URL": "https://www.lego.com/biassets/bi/6150574.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6150574.png",
+    "Description": "Police Pursuit",
+    "Notes": "BI 3004/44, 60128 2/2 V39",
+    "DashedNumber": "60128-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10935,
+    "SetNumber": 60129,
+    "URL": "https://www.lego.com/biassets/bi/6150620.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6150620.png",
+    "Description": "Police Patrol Boat",
+    "Notes": "BI 3004/32, 60129 1/2 V29",
+    "DashedNumber": "60129-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10936,
+    "SetNumber": 60129,
+    "URL": "https://www.lego.com/biassets/bi/6150622.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6150622.png",
+    "Description": "Police Patrol Boat",
+    "Notes": "BI 3004/32, 60129 1/2 V39",
+    "DashedNumber": "60129-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10937,
+    "SetNumber": 60129,
+    "URL": "https://www.lego.com/biassets/bi/6150623.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6150623.png",
+    "Description": "Police Patrol Boat",
+    "Notes": "No longer listed at LEGO.com",
+    "DashedNumber": "60129-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10938,
+    "SetNumber": 60129,
+    "URL": "https://www.lego.com/biassets/bi/6150625.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6150625.png",
+    "Description": "Police Patrol Boat",
+    "Notes": "BI 3017 / 68+4 / 65+115, 60129 2/2 V39",
+    "DashedNumber": "60129-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10939,
+    "SetNumber": 60129,
+    "URL": "https://www.lego.com/biassets/bi/6208385.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6208385.png",
+    "Description": "Police Patrol Boat",
+    "Notes": "BI 3017 / 68+4 / 65+115, 60129 2/2 V29",
+    "DashedNumber": "60129-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10987,
+    "SetNumber": 60136,
+    "URL": "https://www.lego.com/biassets/bi/6186487.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6186487.png",
+    "Description": "CITY Police Value Pack",
+    "Notes": "BI 3001, 40/65G, 60136 V29",
+    "DashedNumber": "60136-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10988,
+    "SetNumber": 60136,
+    "URL": "https://www.lego.com/biassets/bi/6186488.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6186488.png",
+    "Description": "Police Starter Set",
+    "Notes": "BI 3001, 40/65G, 60136 V39",
+    "DashedNumber": "60136-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10990,
+    "SetNumber": 60137,
+    "URL": "https://www.lego.com/biassets/bi/6186527.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6186527.png",
+    "Description": "CITY Police Value Pack",
+    "Notes": "BI 3004/64+4, 60137 V29",
+    "DashedNumber": "60137-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10991,
+    "SetNumber": 60138,
+    "URL": "https://www.lego.com/biassets/bi/6188705.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6188705.png",
+    "Description": "CITY Police Value Pack",
+    "Notes": "BI 3004/32, 60138 1/3 V29",
+    "DashedNumber": "60138-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10993,
+    "SetNumber": 60138,
+    "URL": "https://www.lego.com/biassets/bi/6188710.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6188710.png",
+    "Description": "CITY Police Value Pack",
+    "Notes": "BI 3004/24, 60138 2/3 V29",
+    "DashedNumber": "60138-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 10995,
+    "SetNumber": 60138,
+    "URL": "https://www.lego.com/biassets/bi/6188716.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6188716.png",
+    "Description": "CITY Police Value Pack",
+    "Notes": "BI 3004/60+4/65+115G, 60138 3/3 V29",
+    "DashedNumber": "60138-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 11013,
+    "SetNumber": 60141,
+    "URL": "https://www.lego.com/biassets/bi/6188777.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6188777.png",
+    "Description": "Police Station",
+    "Notes": "BI 3004/36, 60141 1/6 V29",
+    "DashedNumber": "60141-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 11014,
+    "SetNumber": 60141,
+    "URL": "https://www.lego.com/biassets/bi/6188778.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6188778.png",
+    "Description": "Police Station",
+    "Notes": "BI 3004/36, 60141 1/6 V39",
+    "DashedNumber": "60141-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 11015,
+    "SetNumber": 60141,
+    "URL": "https://www.lego.com/biassets/bi/6188783.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6188783.png",
+    "Description": "Police Station",
+    "Notes": "BI 3019/76+4*, 60141 4/6 V29",
+    "DashedNumber": "60141-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 11016,
+    "SetNumber": 60141,
+    "URL": "https://www.lego.com/biassets/bi/6188785.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6188785.png",
+    "Description": "Police Station",
+    "Notes": "BI 3019/76+4*, 60141 4/6 V39",
+    "DashedNumber": "60141-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 11017,
+    "SetNumber": 60141,
+    "URL": "https://www.lego.com/biassets/bi/6188786.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6188786.png",
+    "Description": "Police Station",
+    "Notes": "BI 3019/56-65G, 60141 5/6 V29",
+    "DashedNumber": "60141-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 11018,
+    "SetNumber": 60141,
+    "URL": "https://www.lego.com/biassets/bi/6188787.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6188787.png",
+    "Description": "Police Station",
+    "Notes": "BI 3019/56-65G, 60141 5/6 V39",
+    "DashedNumber": "60141-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 11019,
+    "SetNumber": 60141,
+    "URL": "https://www.lego.com/biassets/bi/6188788.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6188788.png",
+    "Description": "Police Station",
+    "Notes": "BI 3019/60+4*, 60141 6/6 V29",
+    "DashedNumber": "60141-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 11020,
+    "SetNumber": 60141,
+    "URL": "https://www.lego.com/biassets/bi/6188790.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6188790.png",
+    "Description": "Police Station",
+    "Notes": "BI 3019/60+4*, 60141 6/6 V39",
+    "DashedNumber": "60141-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 11021,
+    "SetNumber": 60141,
+    "URL": "https://www.lego.com/biassets/bi/6196340.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6196340.png",
+    "Description": "Police Station",
+    "Notes": "BI 3004/40, 60141 2/6 V29",
+    "DashedNumber": "60141-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 11022,
+    "SetNumber": 60141,
+    "URL": "https://www.lego.com/biassets/bi/6196342.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6196342.png",
+    "Description": "Police Station",
+    "Notes": "BI 3004/24, 60141 3/6 V29",
+    "DashedNumber": "60141-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 11023,
+    "SetNumber": 60141,
+    "URL": "https://www.lego.com/biassets/bi/6196343.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6196343.png",
+    "Description": "Police Station",
+    "Notes": "BI 3004/24, 60141 3/6 V39",
+    "DashedNumber": "60141-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 11024,
+    "SetNumber": 60141,
+    "URL": "https://www.lego.com/biassets/bi/6196346.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6196346.png",
+    "Description": "Police Station",
+    "Notes": "BI 3004/40, 60141 2/6 V39",
+    "DashedNumber": "60141-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 11162,
+    "SetNumber": 60174,
+    "URL": "https://www.lego.com/biassets/bi/6224759.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6224759.png",
+    "Description": "Mountain Police Headquarters",
+    "Notes": "BI 3004/40 - 60174 1/5 V29",
+    "DashedNumber": "60174-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 11163,
+    "SetNumber": 60174,
+    "URL": "https://www.lego.com/biassets/bi/6224760.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6224760.png",
+    "Description": "Mountain Police Headquarters",
+    "Notes": "BI 3004/40 - 60174 1/5 V39",
+    "DashedNumber": "60174-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 11164,
+    "SetNumber": 60174,
+    "URL": "https://www.lego.com/biassets/bi/6224761.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6224761.png",
+    "Description": "Mountain Police Headquarters",
+    "Notes": "BI 3004/68+4*- 60174 2/5 V29",
+    "DashedNumber": "60174-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 11165,
+    "SetNumber": 60174,
+    "URL": "https://www.lego.com/biassets/bi/6224762.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6224762.png",
+    "Description": "Mountain Police Headquarters",
+    "Notes": "BI 3004/68+4*- 60174 2/5 V39",
+    "DashedNumber": "60174-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 11166,
+    "SetNumber": 60174,
+    "URL": "https://www.lego.com/biassets/bi/6224765.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6224765.png",
+    "Description": "Mountain Police Headquarters",
+    "Notes": "BI 3019/48-65G, 60174 4/5 V29",
+    "DashedNumber": "60174-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 11167,
+    "SetNumber": 60174,
+    "URL": "https://www.lego.com/biassets/bi/6224766.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6224766.png",
+    "Description": "Mountain Police Headquarters",
+    "Notes": "BI 3019/48-65G, 60174 4/5 V39",
+    "DashedNumber": "60174-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 11168,
+    "SetNumber": 60174,
+    "URL": "https://www.lego.com/biassets/bi/6230099.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6230099.png",
+    "Description": "Mountain Police Headquarters",
+    "Notes": "BI 3019/52-65G, 60174 3/5 V29",
+    "DashedNumber": "60174-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 11169,
+    "SetNumber": 60174,
+    "URL": "https://www.lego.com/biassets/bi/6230107.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6230107.png",
+    "Description": "Mountain Police Headquarters",
+    "Notes": "BI 3019/60,65G, 60174 5/5 V29",
+    "DashedNumber": "60174-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 11170,
+    "SetNumber": 60174,
+    "URL": "https://www.lego.com/biassets/bi/6230109.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6230109.png",
+    "Description": "Mountain Police Headquarters",
+    "Notes": "BI 3019/52-65G, 60174 3/5 V39",
+    "DashedNumber": "60174-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 11171,
+    "SetNumber": 60174,
+    "URL": "https://www.lego.com/biassets/bi/6230111.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6230111.png",
+    "Description": "Mountain Police Headquarters",
+    "Notes": "BI 3019/60,65G, 60174 5/5 V39",
+    "DashedNumber": "60174-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 11281,
+    "SetNumber": 66175,
+    "URL": "https://www.lego.com/biassets/bi/4626026.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4626026.png",
+    "Description": "Police Car",
+    "Notes": "No longer listed at LEGO.com",
+    "DashedNumber": "66175-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 12113,
+    "SetNumber": 70815,
+    "URL": "https://www.lego.com/biassets/bi/6092410.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6092410.png",
+    "Description": "Super Secret Police Dropship",
+    "Notes": "BI 3019 / 60 - 65g - 70815 V39 BOOK 1/2",
+    "DashedNumber": "70815-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 12114,
+    "SetNumber": 70815,
+    "URL": "https://www.lego.com/biassets/bi/6092404.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6092404.png",
+    "Description": "Super Secret Police Dropship",
+    "Notes": "BI 3019 / 60 - 65g - 70815V29 BOOK 1/2",
+    "DashedNumber": "70815-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 12115,
+    "SetNumber": 70815,
+    "URL": "https://www.lego.com/biassets/bi/6092414.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6092414.png",
+    "Description": "Super Secret Police Dropship",
+    "Notes": "BI 3019/72+4*- 70815 V29 BOOK 2/2",
+    "DashedNumber": "70815-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 12116,
+    "SetNumber": 70815,
+    "URL": "https://www.lego.com/biassets/bi/6092416.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6092416.png",
+    "Description": "Super Secret Police Dropship",
+    "Notes": "BI 3019/72+4*-70815 V39 BOOK 2/2",
+    "DashedNumber": "70815-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 12500,
+    "SetNumber": 75046,
+    "URL": "https://www.lego.com/biassets/bi/6073815.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6073815.png",
+    "Description": "Coruscant??? Police Gunship",
+    "Notes": "No longer listed at LEGO.com",
+    "DashedNumber": "75046-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 12501,
+    "SetNumber": 75046,
+    "URL": "https://www.lego.com/biassets/bi/6073812.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6073812.png",
+    "Description": "Coruscant??? Police Gunship",
+    "Notes": "No longer listed at LEGO.com",
+    "DashedNumber": "75046-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 12502,
+    "SetNumber": 75046,
+    "URL": "https://www.lego.com/biassets/bi/6132315.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6132315.png",
+    "Description": "Coruscant ™ Police Gunship",
+    "Notes": "BI 3019/76+4*- 75046 V29",
+    "DashedNumber": "75046-1",
+    "Preselect": "police"
+  },
+  {
+    "ID": 12503,
+    "SetNumber": 75046,
+    "URL": "https://www.lego.com/biassets/bi/6132317.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/6132317.png",
+    "Description": "Coruscant ™ Police Gunship",
+    "Notes": "BI 3019/76+4*- 75046 V39",
+    "DashedNumber": "75046-1",
+    "Preselect": "police"
+  }
+]
+  ]
+}
+
