@@ -1,7 +1,6 @@
 ﻿{
   "results": [
-    [
-      {
+          {
         "ID": 658,
         "SetNumber": 1290,
         "URL": "https://www.lego.com/biassets/bi/4132920.pdf",
@@ -631,7 +630,6 @@
         "DashedNumber": "70631-1",
         "Preselect": "volcano"
       }
-    ]
   ]
 }
 

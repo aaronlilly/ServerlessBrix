@@ -1,7 +1,6 @@
 ﻿{
   "results": [
-    [
-      {
+       {
         "ID": 114,
         "SetNumber": 76021,
         "URL": "https://www.lego.com/biassets/bi/6090127.pdf",
@@ -1301,7 +1300,6 @@
         "DashedNumber": "70923-1",
         "Preselect": "space"
       }
-    ]
   ]
 }
 

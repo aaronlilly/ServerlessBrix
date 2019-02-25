@@ -1,6 +1,6 @@
 ﻿{
   "results": [
-    [
+    
       {
         "ID": 141,
         "SetNumber": 76027,
@@ -681,7 +681,6 @@
         "DashedNumber": "60096-1",
         "Preselect": "deep sea"
       }
-    ]
   ]
 }
 
