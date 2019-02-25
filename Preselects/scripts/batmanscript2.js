@@ -10,8 +10,6 @@
                                {
                         for (var i = 0; i < data.results.length; i++) 
                         {
-                            
-
                             $("#legoList").append(data.results[i].URL);
                         }            
                               });
