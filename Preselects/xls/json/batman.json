@@ -1,3 +1,1284 @@
-unknown parameter ./p3r68-cdx67/5qtuc-aq4r5.csv.
-
-]
+{
+  "results": [
+    {
+      "ID": 35,
+      "SetNumber": 76000,
+      "URL": "https://www.lego.com/biassets/bi/6035608.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6035608.png",
+      "Description": "Arctic Batman ™ vs. Mr. Freeze ™: Aquaman ™",
+      "Notes": "BI 3004/64+4-65*- 76000 V29",
+      "DashedNumber": "76000-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 36,
+      "SetNumber": 76000,
+      "URL": "https://www.lego.com/biassets/bi/6035609.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6035609.png",
+      "Description": "Arctic Batman ™ vs. Mr. Freeze ™: Aquaman ™",
+      "Notes": "BI 3004/64+4-65*- 76000 V39",
+      "DashedNumber": "76000-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 83,
+      "SetNumber": 76010,
+      "URL": "https://www.lego.com/biassets/bi/6070932.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6070932.png",
+      "Description": "Batman ™: The Penguin Face off",
+      "Notes": "BI 3003/36-76010 V39",
+      "DashedNumber": "76010-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 84,
+      "SetNumber": 76010,
+      "URL": "https://www.lego.com/biassets/bi/6070930.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6070930.png",
+      "Description": "Batman ™: The Penguin Face off",
+      "Notes": "BI 3003/36-76010 V29",
+      "DashedNumber": "76010-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 85,
+      "SetNumber": 76011,
+      "URL": "https://www.lego.com/biassets/bi/6070934.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6070934.png",
+      "Description": "Batman ™: Man-Bat Attack",
+      "Notes": "BI 3004/60+4 -76011 V39",
+      "DashedNumber": "76011-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 86,
+      "SetNumber": 76012,
+      "URL": "https://www.lego.com/biassets/bi/6070949.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6070949.png",
+      "Description": "Batman ™: The Riddler Chase",
+      "Notes": "BI 3004/36-76012 1/2 V29",
+      "DashedNumber": "76012-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 87,
+      "SetNumber": 76012,
+      "URL": "https://www.lego.com/biassets/bi/6070952.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6070952.png",
+      "Description": "Batman ™: The Riddler Chase",
+      "Notes": "BI 3004/36-76012 1/2 V39",
+      "DashedNumber": "76012-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 88,
+      "SetNumber": 76012,
+      "URL": "https://www.lego.com/biassets/bi/6070950.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6070950.png",
+      "Description": "Batman ™: The Riddler Chase",
+      "Notes": "BI 3004/72+4*-76012 2/2 V29",
+      "DashedNumber": "76012-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 89,
+      "SetNumber": 76012,
+      "URL": "https://www.lego.com/biassets/bi/6070953.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6070953.png",
+      "Description": "Batman ™: The Riddler Chase",
+      "Notes": "BI 3004/72+4*-76012 2/2 V39",
+      "DashedNumber": "76012-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 90,
+      "SetNumber": 76013,
+      "URL": "https://www.lego.com/biassets/bi/6070941.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6070941.png",
+      "Description": "Batman ™: The Joker Steam Roller",
+      "Notes": "BI 3017 / 56 - 65g-76013 1/2 V29",
+      "DashedNumber": "76013-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 91,
+      "SetNumber": 76013,
+      "URL": "https://www.lego.com/biassets/bi/6070944.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6070944.png",
+      "Description": "Batman ™: The Joker Steam Roller",
+      "Notes": "BI 3017/60+4/65+115g-76013 2/2 V29",
+      "DashedNumber": "76013-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 92,
+      "SetNumber": 76013,
+      "URL": "https://www.lego.com/biassets/bi/6070942.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6070942.png",
+      "Description": "Batman ™: The Joker Steam Roller",
+      "Notes": "BI 3017 / 56 - 65g-76013 1/2 V39",
+      "DashedNumber": "76013-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 93,
+      "SetNumber": 76013,
+      "URL": "https://www.lego.com/biassets/bi/6070946.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6070946.png",
+      "Description": "Batman ™: The Joker Steam Roller",
+      "Notes": "BI 3017/60+4/65+115g-76013 2/2 V39",
+      "DashedNumber": "76013-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 213,
+      "SetNumber": 76052,
+      "URL": "https://www.lego.com/biassets/bi/6162280.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6162280.png",
+      "Description": "Batman ™ Classic TV Series – Batcave",
+      "Notes": "BI 3016, 300+4/65+200G, 76052 V29",
+      "DashedNumber": "76052-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 214,
+      "SetNumber": 76052,
+      "URL": "https://www.lego.com/biassets/bi/6162281.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6162281.png",
+      "Description": "Batman ™ Classic TV Series – Batcave",
+      "Notes": "BI 3016, 300+4/65+200G, 76052 V39",
+      "DashedNumber": "76052-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 215,
+      "SetNumber": 76053,
+      "URL": "https://www.lego.com/biassets/bi/6155072.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6155072.png",
+      "Description": "Batman ™: Gotham City Cycle Chase",
+      "Notes": "BI 3003/32, 76053 1/2 V29",
+      "DashedNumber": "76053-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 216,
+      "SetNumber": 76053,
+      "URL": "https://www.lego.com/biassets/bi/6155073.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6155073.png",
+      "Description": "Batman ™: Gotham City Cycle Chase",
+      "Notes": "BI 3003/32, 76053 1/2 V39",
+      "DashedNumber": "76053-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 217,
+      "SetNumber": 76053,
+      "URL": "https://www.lego.com/biassets/bi/6155074.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6155074.png",
+      "Description": "Batman ™: Gotham City Cycle Chase",
+      "Notes": "BI 3003/48/65g, 76053 2/2 V29",
+      "DashedNumber": "76053-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 218,
+      "SetNumber": 76053,
+      "URL": "https://www.lego.com/biassets/bi/6155076.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6155076.png",
+      "Description": "Batman ™: Gotham City Cycle Chase",
+      "Notes": "BI 3003/48/65g, 76053 2/2 V39",
+      "DashedNumber": "76053-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 219,
+      "SetNumber": 76054,
+      "URL": "https://www.lego.com/biassets/bi/6163798.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6163798.png",
+      "Description": "Batman ™: Scarecrow ™ Harvest of Fear",
+      "Notes": "BI 3017/60-65G, 76054 2/2 V29",
+      "DashedNumber": "76054-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 220,
+      "SetNumber": 76054,
+      "URL": "https://www.lego.com/biassets/bi/6163793.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6163793.png",
+      "Description": "Batman ™: Scarecrow ™ Harvest of Fear",
+      "Notes": "BI 3017/76+4-65/115G, 76054 1/2 V29",
+      "DashedNumber": "76054-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 221,
+      "SetNumber": 76054,
+      "URL": "https://www.lego.com/biassets/bi/6163800.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6163800.png",
+      "Description": "Batman ™: Killer Croc ™ Sewer Smash",
+      "Notes": "INSPIRATIONAL MATERIAL, 76054/76055 V29",
+      "DashedNumber": "76054-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 222,
+      "SetNumber": 76054,
+      "URL": "https://www.lego.com/biassets/bi/6163799.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6163799.png",
+      "Description": "Batman ™: Scarecrow ™ Harvest of Fear",
+      "Notes": "BI 3017/60-65G, 76054 2/2 V39",
+      "DashedNumber": "76054-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 223,
+      "SetNumber": 76054,
+      "URL": "https://www.lego.com/biassets/bi/6163796.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6163796.png",
+      "Description": "Batman ™: Scarecrow ™ Harvest of Fear",
+      "Notes": "BI 3017/76+4-65/115G, 76054 1/2 V39",
+      "DashedNumber": "76054-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 224,
+      "SetNumber": 76054,
+      "URL": "https://www.lego.com/biassets/bi/6163803.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6163803.png",
+      "Description": "Batman ™: Killer Croc ™ Sewer Smash",
+      "Notes": "INSPIRATIONAL MATERIAL, 76054/76055 V39",
+      "DashedNumber": "76054-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 225,
+      "SetNumber": 76055,
+      "URL": "https://www.lego.com/biassets/bi/6167271.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6167271.png",
+      "Description": "Batman ™: Killer Croc ™ Sewer Smash",
+      "Notes": "BI 3004/56, 76055 1/2 V29",
+      "DashedNumber": "76055-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 226,
+      "SetNumber": 76055,
+      "URL": "https://www.lego.com/biassets/bi/6163812.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6163812.png",
+      "Description": "Batman ™: Killer Croc ™ Sewer Smash",
+      "Notes": "BI 3019/80+4, 76055 2/2 V29",
+      "DashedNumber": "76055-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 227,
+      "SetNumber": 76055,
+      "URL": "https://www.lego.com/biassets/bi/6167273.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6167273.png",
+      "Description": "Batman ™: Killer Croc ™ Sewer Smash",
+      "Notes": "BI 3004/56, 76055 1/2 V39",
+      "DashedNumber": "76055-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 228,
+      "SetNumber": 76055,
+      "URL": "https://www.lego.com/biassets/bi/6163816.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6163816.png",
+      "Description": "Batman ™: Killer Croc ™ Sewer Smash",
+      "Notes": "BI 3019/80+4, 76055 2/2 V39",
+      "DashedNumber": "76055-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 229,
+      "SetNumber": 76056,
+      "URL": "https://www.lego.com/biassets/bi/6163818.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6163818.png",
+      "Description": "Batman ™: Rescue from Ras al Ghul ™",
+      "Notes": "BI 3004/40, 76056 1/2 V29",
+      "DashedNumber": "76056-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 230,
+      "SetNumber": 76056,
+      "URL": "https://www.lego.com/biassets/bi/6163831.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6163831.png",
+      "Description": "Batman ™: Rescue from Ras al Ghul ™",
+      "Notes": "BI 3004/60+4/65+115G, 76056 2/2 V29",
+      "DashedNumber": "76056-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 231,
+      "SetNumber": 76056,
+      "URL": "https://www.lego.com/biassets/bi/6163820.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6163820.png",
+      "Description": "Batman ™: Rescue from Ras al Ghul ™",
+      "Notes": "BI 3004/40, 76056 1/2 V39",
+      "DashedNumber": "76056-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 232,
+      "SetNumber": 76056,
+      "URL": "https://www.lego.com/biassets/bi/6163832.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6163832.png",
+      "Description": "Batman ™: Rescue from Ras al Ghul ™",
+      "Notes": "BI 3004/60+4/65+115G, 76056 2/2 V39",
+      "DashedNumber": "76056-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 245,
+      "SetNumber": 76061,
+      "URL": "https://www.lego.com/biassets/bi/6154142.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6154142.png",
+      "Description": "Mighty Micros: Batman ™ vs. Catwoman ™",
+      "Notes": "BI 2002/ 2, 76061 1/3 V29",
+      "DashedNumber": "76061-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 246,
+      "SetNumber": 76061,
+      "URL": "https://www.lego.com/biassets/bi/6154143.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6154143.png",
+      "Description": "Mighty Micros: Batman ™ vs. Catwoman ™",
+      "Notes": "BI 2002/ 2, 76061 1/3 V39",
+      "DashedNumber": "76061-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 247,
+      "SetNumber": 76061,
+      "URL": "https://www.lego.com/biassets/bi/6154145.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6154145.png",
+      "Description": "Mighty Micros: Batman ™ vs. Catwoman ™",
+      "Notes": "BI 2002/ 2, 76061 2/3 V29",
+      "DashedNumber": "76061-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 248,
+      "SetNumber": 76061,
+      "URL": "https://www.lego.com/biassets/bi/6154148.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6154148.png",
+      "Description": "Mighty Micros: Batman ™ vs. Catwoman ™",
+      "Notes": "BI 2002/ 2, 76061 2/3 V39",
+      "DashedNumber": "76061-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 249,
+      "SetNumber": 76061,
+      "URL": "https://www.lego.com/biassets/bi/6154149.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6154149.png",
+      "Description": "Mighty Micros: Batman ™ vs. Catwoman ™",
+      "Notes": "BI 2002/ 2, 76061 3/3 V29",
+      "DashedNumber": "76061-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 250,
+      "SetNumber": 76061,
+      "URL": "https://www.lego.com/biassets/bi/6154150.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6154150.png",
+      "Description": "Mighty Micros: Batman ™ vs. Catwoman ™",
+      "Notes": "BI 2002/ 2, 76061 3/3 V39",
+      "DashedNumber": "76061-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 291,
+      "SetNumber": 76069,
+      "URL": "https://www.lego.com/biassets/bi/6187690.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6187690.png",
+      "Description": "Mighty Micros: Batman ™ vs. Killer Moth ™",
+      "Notes": "BI 2002/ 2, 76069 1/3 V29",
+      "DashedNumber": "76069-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 292,
+      "SetNumber": 76069,
+      "URL": "https://www.lego.com/biassets/bi/6187697.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6187697.png",
+      "Description": "Mighty Micros: Batman ™ vs. Killer Moth ™",
+      "Notes": "BI 2002/ 2, 76069 2/3 V29",
+      "DashedNumber": "76069-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 293,
+      "SetNumber": 76069,
+      "URL": "https://www.lego.com/biassets/bi/6187702.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6187702.png",
+      "Description": "Mighty Micros: Batman ™ vs. Killer Moth ™",
+      "Notes": "BI 2002/ 2, 76069 3/3 V29",
+      "DashedNumber": "76069-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 294,
+      "SetNumber": 76069,
+      "URL": "https://www.lego.com/biassets/bi/6187704.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6187704.png",
+      "Description": "Mighty Micros: Batman ™ vs. Killer Moth ™",
+      "Notes": "BI 2002/ 2, 76069 1/3 V39",
+      "DashedNumber": "76069-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 295,
+      "SetNumber": 76069,
+      "URL": "https://www.lego.com/biassets/bi/6187705.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6187705.png",
+      "Description": "Mighty Micros: Batman ™ vs. Killer Moth ™",
+      "Notes": "BI 2002/ 2, 76069 2/3 V39",
+      "DashedNumber": "76069-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 296,
+      "SetNumber": 76069,
+      "URL": "https://www.lego.com/biassets/bi/6187715.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6187715.png",
+      "Description": "Mighty Micros: Batman ™ vs. Killer Moth ™",
+      "Notes": "BI 2002/ 2, 76069 3/3 V39",
+      "DashedNumber": "76069-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 395,
+      "SetNumber": 76092,
+      "URL": "https://www.lego.com/biassets/bi/6222187.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6222187.png",
+      "Description": "Mighty Micros: Batman ™ vs. Harley Quinn ™",
+      "Notes": "BI 2002/2, 76092 1/3 V29",
+      "DashedNumber": "76092-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 396,
+      "SetNumber": 76092,
+      "URL": "https://www.lego.com/biassets/bi/6222188.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6222188.png",
+      "Description": "Mighty Micros: Batman ™ vs. Harley Quinn ™",
+      "Notes": "BI 2002/2, 76092 1/3 V39",
+      "DashedNumber": "76092-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 397,
+      "SetNumber": 76092,
+      "URL": "https://www.lego.com/biassets/bi/6222191.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6222191.png",
+      "Description": "Mighty Micros: Batman ™ vs. Harley Quinn ™",
+      "Notes": "BI 2002/2, 76092 2/3 V29",
+      "DashedNumber": "76092-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 398,
+      "SetNumber": 76092,
+      "URL": "https://www.lego.com/biassets/bi/6222194.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6222194.png",
+      "Description": "Mighty Micros: Batman ™ vs. Harley Quinn ™",
+      "Notes": "BI 2002/2, 76092 2/3 V39",
+      "DashedNumber": "76092-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 399,
+      "SetNumber": 76092,
+      "URL": "https://www.lego.com/biassets/bi/6222196.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6222196.png",
+      "Description": "Mighty Micros: Batman ™ vs. Harley Quinn ™",
+      "Notes": "BI 2002/2, 76092 3/3 V29",
+      "DashedNumber": "76092-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 400,
+      "SetNumber": 76092,
+      "URL": "https://www.lego.com/biassets/bi/6222199.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6222199.png",
+      "Description": "Mighty Micros: Batman ™ vs. Harley Quinn ™",
+      "Notes": "BI 2002/2, 76092 3/3 V39",
+      "DashedNumber": "76092-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 2682,
+      "SetNumber": 7779,
+      "URL": "https://www.lego.com/biassets/bi/4492750.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/4492750.png",
+      "Description": "The Batman ™ Dragster: Catwoman ™ Pursuit",
+      "Notes": "BI 7779 NA",
+      "DashedNumber": "7779-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 2683,
+      "SetNumber": 7779,
+      "URL": "https://www.lego.com/biassets/bi/4492749.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/4492749.png",
+      "Description": "The Batman ™ Dragster: Catwoman ™ Pursuit",
+      "Notes": "BI  7779 IN",
+      "DashedNumber": "7779-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 2767,
+      "SetNumber": 7884,
+      "URL": "https://www.lego.com/biassets/bi/4540705.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/4540705.png",
+      "Description": "Batmans Buggy: The Escape of Mr. Freeze",
+      "Notes": "BI  NA 7884",
+      "DashedNumber": "7884-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 2768,
+      "SetNumber": 7884,
+      "URL": "https://www.lego.com/biassets/bi/4537539.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/4537539.png",
+      "Description": "Batmans Buggy: The Escape of Mr. Freeze",
+      "Notes": "BI IN 7884",
+      "DashedNumber": "7884-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 6115,
+      "SetNumber": 4526,
+      "URL": "https://www.lego.com/biassets/bi/6002118.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6002118.png",
+      "Description": "Batman ™",
+      "Notes": "BI 3022/24-65G-4526 V29",
+      "DashedNumber": "4526-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 6116,
+      "SetNumber": 4526,
+      "URL": "https://www.lego.com/biassets/bi/6002119.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6002119.png",
+      "Description": "Batman ™",
+      "Notes": "BI 3022/24-65G-4526 V39",
+      "DashedNumber": "4526-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 6903,
+      "SetNumber": 10599,
+      "URL": "https://www.lego.com/biassets/bi/6145960.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6145960.png",
+      "Description": "Batman Adventure",
+      "Notes": "BI 3004/16/65g Glue 10599 V29",
+      "DashedNumber": "10599-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 6904,
+      "SetNumber": 10599,
+      "URL": "https://www.lego.com/biassets/bi/6145961.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6145961.png",
+      "Description": "Batman Adventure",
+      "Notes": "BI 3004/16/65g Glue 10599 V39",
+      "DashedNumber": "10599-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 6961,
+      "SetNumber": 10672,
+      "URL": "https://www.lego.com/biassets/bi/6072722.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6072722.png",
+      "Description": "Batman ™: Defend the Batcave",
+      "Notes": "BI 3017 / 48 - 65g-10672 V29",
+      "DashedNumber": "10672-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 6962,
+      "SetNumber": 10672,
+      "URL": "https://www.lego.com/biassets/bi/6072724.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6072724.png",
+      "Description": "Batman ™: Defend the Batcave",
+      "Notes": "BI 3017 / 48 - 65g-10672 V39",
+      "DashedNumber": "10672-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 7048,
+      "SetNumber": 10724,
+      "URL": "https://www.lego.com/biassets/bi/6163431.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6163431.png",
+      "Description": "Batman ™ & Superman ™ vs. Lex Luthor ™",
+      "Notes": "BI 3004/64+4, 10724 V29",
+      "DashedNumber": "10724-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 7049,
+      "SetNumber": 10724,
+      "URL": "https://www.lego.com/biassets/bi/6163432.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6163432.png",
+      "Description": "Batman ™ & Superman ™ vs. Lex Luthor ™",
+      "Notes": "BI 3004/64+4, 10724 V39",
+      "DashedNumber": "10724-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 7075,
+      "SetNumber": 10737,
+      "URL": "https://www.lego.com/biassets/bi/6203505.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6203505.png",
+      "Description": "Batman ™ vs. Mr. Freeze ™",
+      "Notes": "BI 3003/36, 10737 V29",
+      "DashedNumber": "10737-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 7076,
+      "SetNumber": 10737,
+      "URL": "https://www.lego.com/biassets/bi/6203506.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6203506.png",
+      "Description": "Batman ™ vs. Mr. Freeze ™",
+      "Notes": "BI 3003/36, 10737 V39",
+      "DashedNumber": "10737-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 7263,
+      "SetNumber": 10937,
+      "URL": "https://www.lego.com/biassets/bi/6035710.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6035710.png",
+      "Description": "Batman ™: Arkham Asylum Breakout",
+      "Notes": "BI 3016 80+4*- 10937 BOOK 1/3 V29",
+      "DashedNumber": "10937-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 7264,
+      "SetNumber": 10937,
+      "URL": "https://www.lego.com/biassets/bi/6035713.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6035713.png",
+      "Description": "Batman ™: Arkham Asylum Breakout",
+      "Notes": "BI 3016 80+4*- 10937 BOOK 1/3 V39",
+      "DashedNumber": "10937-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 7265,
+      "SetNumber": 10937,
+      "URL": "https://www.lego.com/biassets/bi/6042754.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6042754.png",
+      "Description": "Batman ™: Arkham Asylum Breakout",
+      "Notes": "BI 3016/68+4*- 10937 BOOK 2/3 V29",
+      "DashedNumber": "10937-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 7266,
+      "SetNumber": 10937,
+      "URL": "https://www.lego.com/biassets/bi/6042762.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6042762.png",
+      "Description": "Batman ™: Arkham Asylum Breakout",
+      "Notes": "BI 3016/68+4*- 10937 BOOK 2/3 V39",
+      "DashedNumber": "10937-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 7267,
+      "SetNumber": 10937,
+      "URL": "https://www.lego.com/biassets/bi/6042757.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6042757.png",
+      "Description": "Batman[TM]: Arkham Asylum Breakout",
+      "Notes": "No longer listed at LEGO.com",
+      "DashedNumber": "10937-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 7268,
+      "SetNumber": 10937,
+      "URL": "https://www.lego.com/biassets/bi/6042759.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6042759.png",
+      "Description": "Batman[TM]: Arkham Asylum Breakout",
+      "Notes": "No longer listed at LEGO.com",
+      "DashedNumber": "10937-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 7269,
+      "SetNumber": 10937,
+      "URL": "https://www.lego.com/biassets/bi/6037292.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6037292.png",
+      "Description": "Batman ™: Arkham Asylum Breakout",
+      "Notes": "BI 3016/12-65G  - COMIC BOOK 10937 V29",
+      "DashedNumber": "10937-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 7270,
+      "SetNumber": 10937,
+      "URL": "https://www.lego.com/biassets/bi/6037294.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6037294.png",
+      "Description": "Batman ™: Arkham Asylum Breakout",
+      "Notes": "BI 3016/12-65G  - COMIC BOOK 10937 V39",
+      "DashedNumber": "10937-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 7271,
+      "SetNumber": 10937,
+      "URL": "https://www.lego.com/biassets/bi/6061008.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6061008.png",
+      "Description": "Batman ™: Arkham Asylum Breakout",
+      "Notes": "BI 3016/76+4*-10937 BOOK 3/3 V29",
+      "DashedNumber": "10937-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 7272,
+      "SetNumber": 10937,
+      "URL": "https://www.lego.com/biassets/bi/6061012.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6061012.png",
+      "Description": "Batman ™: Arkham Asylum Breakout",
+      "Notes": "BI 3016/76+4*-10937 BOOK 3/3 V39",
+      "DashedNumber": "10937-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 7789,
+      "SetNumber": 30160,
+      "URL": "https://www.lego.com/biassets/bi/6004851.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6004851.png",
+      "Description": "BatmanTM: Jet Surfer",
+      "Notes": "BI 2002/ 2 - 30160 V29",
+      "DashedNumber": "30160-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 7790,
+      "SetNumber": 30160,
+      "URL": "https://www.lego.com/biassets/bi/6011772.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6011772.png",
+      "Description": "BatmanTM: Jet Surfer",
+      "Notes": "BI 2002/ 2 - 30160 V39",
+      "DashedNumber": "30160-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 7975,
+      "SetNumber": 30300,
+      "URL": "https://www.lego.com/biassets/bi/6075289.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6075289.png",
+      "Description": "The Batman ™ Tumbler",
+      "Notes": "BI 2002/ 2 - 30300 V29",
+      "DashedNumber": "30300-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 7976,
+      "SetNumber": 30300,
+      "URL": "https://www.lego.com/biassets/bi/6075290.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6075290.png",
+      "Description": "The Batman ™ Tumbler",
+      "Notes": "BI 2002/ 2 - 30300 V39",
+      "DashedNumber": "30300-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 8136,
+      "SetNumber": 30522,
+      "URL": "https://www.lego.com/biassets/bi/6187384.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6187384.png",
+      "Description": "Batman ™ in the Phantom Zone",
+      "Notes": "BI 2002/ 2, 30522 V29",
+      "DashedNumber": "30522-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 8137,
+      "SetNumber": 30522,
+      "URL": "https://www.lego.com/biassets/bi/6187391.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6187391.png",
+      "Description": "Batman ™ in the Phantom Zone",
+      "Notes": "BI 2002/ 2, 30522 V39",
+      "DashedNumber": "30522-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 8166,
+      "SetNumber": 30603,
+      "URL": "https://www.lego.com/biassets/bi/6168674.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6168674.png",
+      "Description": "Batman ™ Classic TV Series - Mr. Freeze ™",
+      "Notes": "BI 2001/ 2, 30603 V29",
+      "DashedNumber": "30603-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 8167,
+      "SetNumber": 30603,
+      "URL": "https://www.lego.com/biassets/bi/6168676.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6168676.png",
+      "Description": "Batman ™ Classic TV Series - Mr. Freeze ™",
+      "Notes": "BI 2001/ 2, 30603 V39",
+      "DashedNumber": "30603-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 9682,
+      "SetNumber": 41585,
+      "URL": "https://www.lego.com/biassets/bi/6196147.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6196147.png",
+      "Description": "Batman ™",
+      "Notes": "BI 3001/32, 41585 V29",
+      "DashedNumber": "41585-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 9683,
+      "SetNumber": 41585,
+      "URL": "https://www.lego.com/biassets/bi/6196148.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6196148.png",
+      "Description": "Batman ™",
+      "Notes": "BI 3001/32, 41585 V39",
+      "DashedNumber": "41585-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 9732,
+      "SetNumber": 41610,
+      "URL": "https://www.lego.com/biassets/bi/6244726.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6244726.png",
+      "Description": "Tactical Batman ™ & Superman ™",
+      "Notes": "BI 3001/36-65G, 41610 1/2 V29",
+      "DashedNumber": "41610-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 9733,
+      "SetNumber": 41610,
+      "URL": "https://www.lego.com/biassets/bi/6244731.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6244731.png",
+      "Description": "Tactical Batman ™ & Superman ™",
+      "Notes": "BI 3001/36-65G, 41610 1/2 V39",
+      "DashedNumber": "41610-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 9734,
+      "SetNumber": 41610,
+      "URL": "https://www.lego.com/biassets/bi/6244732.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6244732.png",
+      "Description": "Tactical Batman ™ & Superman ™",
+      "Notes": "BI 3001/32, 41610 2/2 V29",
+      "DashedNumber": "41610-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 9735,
+      "SetNumber": 41610,
+      "URL": "https://www.lego.com/biassets/bi/6244745.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6244745.png",
+      "Description": "Tactical Batman ™ & Superman ™",
+      "Notes": "BI 3001/32, 41610 2/2 V39",
+      "DashedNumber": "41610-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 10093,
+      "SetNumber": 50003,
+      "URL": "https://www.lego.com/biassets/bi/6058301.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6058301.png",
+      "Description": "Batman ™",
+      "Notes": "BI 3004/40 -50003 IN",
+      "DashedNumber": "50003-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 10094,
+      "SetNumber": 50003,
+      "URL": "https://www.lego.com/biassets/bi/6058304.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6058304.png",
+      "Description": "Batman ™",
+      "Notes": "BI 3004/40 -50003 NA",
+      "DashedNumber": "50003-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 12121,
+      "SetNumber": 70817,
+      "URL": "https://www.lego.com/biassets/bi/6114483.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6114483.png",
+      "Description": "Batman ™ & Super Angry Kitty Attack",
+      "Notes": "BI 3001/28-65G 70817 v29",
+      "DashedNumber": "70817-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 12122,
+      "SetNumber": 70817,
+      "URL": "https://www.lego.com/biassets/bi/6114486.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6114486.png",
+      "Description": "Batman ™ & Super Angry Kitty Attack",
+      "Notes": "BI 3001/28-65G 70817 v39",
+      "DashedNumber": "70817-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 12327,
+      "SetNumber": 71264,
+      "URL": "https://www.lego.com/biassets/bi/6210597.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6210597.png",
+      "Description": "THE LEGO™ BATMAN MOVIE Story Pack",
+      "Notes": "BI 3018, 44/65G, 71264 V110",
+      "DashedNumber": "71264-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 12328,
+      "SetNumber": 71264,
+      "URL": "https://www.lego.com/biassets/bi/6210600.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6210600.png",
+      "Description": "THE LEGO™ BATMAN MOVIE Story Pack",
+      "Notes": "BI 3018, 44/65G, 71264 V39",
+      "DashedNumber": "71264-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 12377,
+      "SetNumber": 71344,
+      "URL": "https://www.lego.com/biassets/bi/6188098.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6188098.png",
+      "Description": "Excalibur Batman ™ Fun Pack",
+      "Notes": "BI 3001/12 - 71344 V110",
+      "DashedNumber": "71344-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 12378,
+      "SetNumber": 71344,
+      "URL": "https://www.lego.com/biassets/bi/6188101.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6188101.png",
+      "Description": "Excalibur Batman ™ Fun Pack",
+      "Notes": "BI 3001/12 - 71344 V39",
+      "DashedNumber": "71344-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 213,
+      "SetNumber": 76052,
+      "URL": "https://www.lego.com/biassets/bi/6162280.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6162280.png",
+      "Description": "Batman ™ Classic TV Series – Batcave",
+      "Notes": "BI 3016, 300+4/65+200G, 76052 V29",
+      "DashedNumber": "76052-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 214,
+      "SetNumber": 76052,
+      "URL": "https://www.lego.com/biassets/bi/6162281.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6162281.png",
+      "Description": "Batman ™ Classic TV Series – Batcave",
+      "Notes": "BI 3016, 300+4/65+200G, 76052 V39",
+      "DashedNumber": "76052-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 5728,
+      "SetNumber": 6860,
+      "URL": "https://www.lego.com/biassets/bi/6005851.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6005851.png",
+      "Description": "The Batcave",
+      "Notes": "No longer listed at LEGO.com",
+      "DashedNumber": "6860-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 5729,
+      "SetNumber": 6860,
+      "URL": "https://www.lego.com/biassets/bi/6005852.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6005852.png",
+      "Description": "The Batcave",
+      "Notes": "No longer listed at LEGO.com",
+      "DashedNumber": "6860-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 5730,
+      "SetNumber": 6860,
+      "URL": "https://www.lego.com/biassets/bi/6003875.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6003875.png",
+      "Description": "The Batcave",
+      "Notes": "No longer listed at LEGO.com",
+      "DashedNumber": "6860-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 5731,
+      "SetNumber": 6860,
+      "URL": "https://www.lego.com/biassets/bi/6003876.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6003876.png",
+      "Description": "The Batcave",
+      "Notes": "No longer listed at LEGO.com",
+      "DashedNumber": "6860-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 5732,
+      "SetNumber": 6860,
+      "URL": "https://www.lego.com/biassets/bi/6003885.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6003885.png",
+      "Description": "The Batcave",
+      "Notes": "No longer listed at LEGO.com",
+      "DashedNumber": "6860-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 5733,
+      "SetNumber": 6860,
+      "URL": "https://www.lego.com/biassets/bi/6003886.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6003886.png",
+      "Description": "The Batcave",
+      "Notes": "No longer listed at LEGO.com",
+      "DashedNumber": "6860-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 5734,
+      "SetNumber": 6860,
+      "URL": "https://www.lego.com/biassets/bi/6011787.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6011787.png",
+      "Description": "The Batcave",
+      "Notes": "BI 3016/12 -  COMIC BOOK 6860 V29/39",
+      "DashedNumber": "6860-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 5735,
+      "SetNumber": 6860,
+      "URL": "https://www.lego.com/biassets/bi/6011773.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6011773.png",
+      "Description": "The Batcave",
+      "Notes": "BI 3016/12 - COMIC BOOK 6860 V29/39",
+      "DashedNumber": "6860-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 5736,
+      "SetNumber": 6860,
+      "URL": "https://www.lego.com/biassets/bi/6045413.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6045413.png",
+      "Description": "The Batcave",
+      "Notes": "BI 3017 / 32 - 65g, 6860 V29 2/3",
+      "DashedNumber": "6860-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 5737,
+      "SetNumber": 6860,
+      "URL": "https://www.lego.com/biassets/bi/6045414.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6045414.png",
+      "Description": "The Batcave",
+      "Notes": "BI 3017 / 32 - 65g, 6860 V39 2/3",
+      "DashedNumber": "6860-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 5738,
+      "SetNumber": 6860,
+      "URL": "https://www.lego.com/biassets/bi/6045405.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6045405.png",
+      "Description": "The Batcave",
+      "Notes": "BI 3017 / 60 - 65g, 6860 V29 1/3",
+      "DashedNumber": "6860-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 5739,
+      "SetNumber": 6860,
+      "URL": "https://www.lego.com/biassets/bi/6045408.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6045408.png",
+      "Description": "The Batcave",
+      "Notes": "BI 3017 / 60 - 65g, 6860 V39 1/3",
+      "DashedNumber": "6860-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 5740,
+      "SetNumber": 6860,
+      "URL": "https://www.lego.com/biassets/bi/6045409.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6045409.png",
+      "Description": "The Batcave",
+      "Notes": "BI 3017 / 64+4 - 65/115g, 6860 V29 3/3",
+      "DashedNumber": "6860-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 5741,
+      "SetNumber": 6860,
+      "URL": "https://www.lego.com/biassets/bi/6045411.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6045411.png",
+      "Description": "The Batcave",
+      "Notes": "BI 3017 / 64+4 - 65/115g, 6860 V39 3/3",
+      "DashedNumber": "6860-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 2690,
+      "SetNumber": 7783,
+      "URL": "https://www.lego.com/biassets/bi/4497987.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/4497987.png",
+      "Description": "The Batcave ™: The Penguin ™ and Mr. Freez",
+      "Notes": "BI 7783-1 IN",
+      "DashedNumber": "7783-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 2691,
+      "SetNumber": 7783,
+      "URL": "https://www.lego.com/biassets/bi/4497992.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/4497992.png",
+      "Description": "The Batcave ™: The Penguin ™ and Mr. Freez",
+      "Notes": "BI 7783-2 IN",
+      "DashedNumber": "7783-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 2692,
+      "SetNumber": 7783,
+      "URL": "https://www.lego.com/biassets/bi/4497990.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/4497990.png",
+      "Description": "The Batcave ™: The Penguin ™ and Mr. Freez",
+      "Notes": "BI 7783-1 NA",
+      "DashedNumber": "7783-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 2693,
+      "SetNumber": 7783,
+      "URL": "https://www.lego.com/biassets/bi/4497994.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/4497994.png",
+      "Description": "The Batcave ™: The Penguin ™ and Mr. Freez",
+      "Notes": "BI 7783-2 NA",
+      "DashedNumber": "7783-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 6849,
+      "SetNumber": 10545,
+      "URL": "https://www.lego.com/biassets/bi/6089920.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6089920.png",
+      "Description": "Batcave Adventure",
+      "Notes": "BI 3017 / 16 - 65g - 10545 V29",
+      "DashedNumber": "10545-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 6850,
+      "SetNumber": 10545,
+      "URL": "https://www.lego.com/biassets/bi/6089921.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6089921.png",
+      "Description": "Batcave Adventure",
+      "Notes": "BI 3017 / 16 - 65g - 10545 V39",
+      "DashedNumber": "10545-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 6961,
+      "SetNumber": 10672,
+      "URL": "https://www.lego.com/biassets/bi/6072722.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6072722.png",
+      "Description": "Batman ™: Defend the Batcave",
+      "Notes": "BI 3017 / 48 - 65g-10672 V29",
+      "DashedNumber": "10672-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 6962,
+      "SetNumber": 10672,
+      "URL": "https://www.lego.com/biassets/bi/6072724.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6072724.png",
+      "Description": "Batman ™: Defend the Batcave",
+      "Notes": "BI 3017 / 48 - 65g-10672 V39",
+      "DashedNumber": "10672-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 7105,
+      "SetNumber": 10753,
+      "URL": "https://www.lego.com/biassets/bi/6225078.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6225078.png",
+      "Description": "The Joker ™ Batcave Attack",
+      "Notes": "BI 3004/72+4, 10753 V29",
+      "DashedNumber": "10753-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 7106,
+      "SetNumber": 10753,
+      "URL": "https://www.lego.com/biassets/bi/6225087.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6225087.png",
+      "Description": "The Joker ™ Batcave Attack",
+      "Notes": "BI 3004/72+4, 10753 V39",
+      "DashedNumber": "10753-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 7195,
+      "SetNumber": 10842,
+      "URL": "https://www.lego.com/biassets/bi/6189989.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6189989.png",
+      "Description": "Batcave Challenge",
+      "Notes": "BI 3017 / 28, 10842 V39",
+      "DashedNumber": "10842-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 7196,
+      "SetNumber": 10842,
+      "URL": "https://www.lego.com/biassets/bi/6189804.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6189804.png",
+      "Description": "Batcave Challenge",
+      "Notes": "No longer listed at LEGO.com",
+      "DashedNumber": "10842-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 7197,
+      "SetNumber": 10842,
+      "URL": "https://www.lego.com/biassets/bi/6205675.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6205675.png",
+      "Description": "Batcave Challenge",
+      "Notes": "BI 3017/28, 10842 V29",
+      "DashedNumber": "10842-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 12151,
+      "SetNumber": 70909,
+      "URL": "https://www.lego.com/biassets/bi/6195147.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6195147.png",
+      "Description": "Batcave Break-in",
+      "Notes": "BI 3019/140+4/65+200G 70909 V39",
+      "DashedNumber": "70909-1",
+      "Preselect": "batman"
+    },
+    {
+      "ID": 12152,
+      "SetNumber": 70909,
+      "URL": "https://www.lego.com/biassets/bi/6205647.pdf",
+      "Images": "https://www.lego.com/biassets/biimg/6205647.png",
+      "Description": "Batcave Break-in",
+      "Notes": "BI 3019/140+4/65+200G 70909 V29",
+      "DashedNumber": "70909-1",
+      "Preselect": "batman"
+    }
+  ]
+}

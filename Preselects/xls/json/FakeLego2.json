@@ -1,10 +1,7 @@
 ﻿{
-  "count": 949,
-  "previous": null,
-  "results": 
-  [
+    "results": [
     {
-       "ID": 2924,
+      "ID": 2924,
       "SetNumber": 7942,
       "URL": "https://www.lego.com/biassets/bi/4586972.pdf",
       "Images": "https://www.lego.com/biassets/biimg/4586972.png",
@@ -12,5 +9,6 @@
       "DashedNumber": "7942-1",
       "Preselect": "fire"
     }
-  ],"next":"https:\/\/pokeapi.co\/api\/v2\/pokemon\/?limit=151&offset=151"}
+  ]
+}
 
