@@ -10,14 +10,9 @@
                                {
                         for (var i = 0; i < data.results.length; i++) 
                         {
-                            var HRF = "<a href='";
-                            var ND = "'>";
-                            var AA = "</a>"
-                            var YES = '<img src="https://www.lego.com/biassets/biimg/6237212.png">';
-                            var IGG = '<img src="';
-                            var LST = '">'
+                            
 
-                            $("#legoList").append(HRF + data.results[i].URL + ND + IGG + data.results[i].Images +LST + AA);
+                            $("#legoList").append(data.results[i].URL);
                         }            
                               });
             });
