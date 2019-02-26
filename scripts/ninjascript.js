@@ -12,7 +12,7 @@
                                {
                         for (var i = 0; i < data.results.length; i++) 
                         {
-                            var UserInput = ($('#prodId').val;
+                            var UserInput = ($('#prodId').val
                             var HRF = "<a href='";
                             var ND = "'>";
                             var AA = "</a>"
