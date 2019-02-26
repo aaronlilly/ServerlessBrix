@@ -51,7 +51,7 @@
 // });
 
 
-<script type="text/javascript">
+
     var obj = {
       'results': [{
             "ID": 2924,
@@ -88,6 +88,6 @@ var newArray = obj.results.filter(function (el) {
          el.Preselect ; 
 });
 console.log(newArray);
-</script>
+
 
 ///
