@@ -90,7 +90,7 @@
 
 ///
  var obj == Datarr ;
-var UserInput = ($('#prodId').val
+var UserInput = ($('#prodId').val;
 
 // (Note that because `price` and such are given as strings in your object,
 // the below relies on the fact that <= and >= with a string and number
