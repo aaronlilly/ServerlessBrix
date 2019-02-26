@@ -35,7 +35,7 @@
                  for (var i = 0; i < data.results.length; i++) {
                      var HRF = "<a href='";
                      var Datarr = [data.results];
-                     var UserInput = $(#prodId).val;
+                     var UserInput = $('#prodID').val()
                      var newArray = Datarr.results.filter(function (el) {
                          return el.ID == UserInput &&
                              el.SetNumber &&
