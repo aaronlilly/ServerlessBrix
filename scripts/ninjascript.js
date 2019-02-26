@@ -30,14 +30,14 @@
          $.ajax
              ({
                  method: "GET",
-                 url: "https://aaronlilly.github.io/ServerlessBrix/SLBr-master/apis/FakeLego2.json"
+                 url: "https://aaronlilly.github.io/ServerlessBrix/apis/FakeLego2.json"
              }).done(function (data) {
                  for (var i = 0; i < data.results.length; i++) {
                      var HRF = "<a href='";
                      var Datarr = [data.results];
                      var UserInput = $('#prodID').val()
                      var newArray = Datarr.results.filter(function (el) {
-                         return el.ID == UserInput &&
+                         return el.ID = 2924  &&
                              el.SetNumber &&
                              el.URL &&
                              el.Images &&
@@ -64,9 +64,10 @@
 //
 $(document).ready(function () {
 $('#search-now').click(function () {
-    alert($('#prodId').val());
+    alert(newArray);
 });
 });
+//$('#prodId').val()
 
 
 //     var obj = {
