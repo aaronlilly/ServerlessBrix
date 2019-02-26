@@ -26,7 +26,7 @@
                  
                    
  $(document).ready(function () {
-     $('#search-now').click(function () {
+     $('#SetNumberSearch').click(function () {
          $.ajax
              ({
                  method: "GET",
@@ -56,7 +56,7 @@
 
 
                      //$("#legoList2").append(HRF + data.results[i].URL + ND + IGG + data.results[i].Images + LST + AA);
-                     $("#legoList2").append(newArray);
+                     $("#legoList2").append(UserInput);
                  }
              });
      });
