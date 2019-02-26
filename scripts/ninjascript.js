@@ -12,6 +12,7 @@
                                {
                         for (var i = 0; i < data.results.length; i++) 
                         {
+                            var UserInput = ($('#prodId').val;
                             var HRF = "<a href='";
                             var ND = "'>";
                             var AA = "</a>"
@@ -90,7 +91,7 @@
 
 ///
  //var obj == Datarr ;
-var UserInput = ($('#prodId').val
+
 
 // (Note that because `price` and such are given as strings in your object,
 // the below relies on the fact that <= and >= with a string and number
