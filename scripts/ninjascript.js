@@ -26,7 +26,7 @@
                  
                    
  $(document).ready(function () {
-     $('#SetNumberSearch').click(function () {
+     $('#SetNumberSearch2').click(function () {
          $.ajax
              ({
                  method: "GET",
@@ -56,11 +56,16 @@
 
 
                      //$("#legoList2").append(HRF + data.results[i].URL + ND + IGG + data.results[i].Images + LST + AA);
-                     $("#legoList2").append(UserInput);
+                     $("#legoList2").append(newArray);
                  }
              });
      });
- });
+});
+//
+
+$('#search-now').click(function () {
+    alert($('#prodId').val());
+});
 
 
 
