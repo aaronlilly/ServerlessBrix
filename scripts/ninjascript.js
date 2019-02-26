@@ -62,11 +62,11 @@
      });
 });
 //
-
+$(document).ready(function () {
 $('#search-now').click(function () {
     alert($('#prodId').val());
 });
-
+});
 
 
 //     var obj = {
