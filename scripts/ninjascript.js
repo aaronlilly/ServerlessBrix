@@ -90,13 +90,13 @@
 
 ///
  var obj == Datarr ;
-
+var UserInput = ($('#prodId').val
 
 // (Note that because `price` and such are given as strings in your object,
 // the below relies on the fact that <= and >= with a string and number
 // will coerce the string to a number before comparing.)
 var newArray = obj.results.filter(function (el) {
-  return el.ID ==  2924 &&
+  return el.ID ==  UserInput &&
          el.SetNumber &&
          el.URL &&
          el.Images &&
