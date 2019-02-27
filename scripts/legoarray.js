@@ -1,33 +1,33 @@
           
 
-            $(document).ready(function ()  
-            {
-                    $.ajax
-                        ({
-                    method: "GET",
-                    url: "https://aaronlilly.github.io/PokeApp/api/v2/pokemon/FakeLego2.json"
-                         }).done(function(data)  
+//             $(document).ready(function ()  
+//             {
+//                     $.ajax
+//                         ({
+//                     method: "GET",
+//                     url: "https://aaronlilly.github.io/PokeApp/api/v2/pokemon/FakeLego2.json"
+//                          }).done(function(data)  
 
 
 
 
-                               {  
-                        for (var i = 0; i < data.results.length; i++) 
-                        {
-                            var HRF = "<a href='";
-                            var ND = "'>";
-                            var AA = "</a>"
-                            var YES = '<img src="https://www.lego.com/biassets/biimg/6237212.png">';
-                            var IGG = '<img src="';
-                            var LST = '">'
+//                                {  
+//                         for (var i = 0; i < data.results.length; i++) 
+//                         {
+//                             var HRF = "<a href='";
+//                             var ND = "'>";
+//                             var AA = "</a>"
+//                             var YES = '<img src="https://www.lego.com/biassets/biimg/6237212.png">';
+//                             var IGG = '<img src="';
+//                             var LST = '">'
                            
 
-                            $("#legoList2").append(HRF + data.results[i].URL + ND + IGG + data.results[i].Images + LST + AA);
-                        }            
-                              });
-            });
+//                             $("#legoList2").append(HRF + data.results[i].URL + ND + IGG + data.results[i].Images + LST + AA);
+//                         }            
+//                               });
+//             });
 
-        ;           
+//         ;           
                    
 //  $(document).ready(function () {
 //      $('#SetNumberSearch2').click(function () {
@@ -65,12 +65,12 @@
 //              });
 //      });
 // });
-// //
-$(document).ready(function () {
-$('#search-now').click(function () {
-    alert($('#prodId').val());
-});
-});
+//
+// $(document).ready(function () {
+// $('#search-now').click(function () {
+//     alert($('#prodId').val());
+// });
+// });
 //$('#prodId').val()
 
 
