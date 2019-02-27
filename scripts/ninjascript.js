@@ -93,9 +93,11 @@ $('#search-now').click(function () {
 };
 
 
-
+    $(document).ready(function () {
+$('#dynam-now').click(function () {
+    
 var newArray = obj.results.filter(function (el) {
-  return el.ID ==  2924 &&
+  return el.ID ==  $('#dynamId').val() &&
          el.SetNumber &&
          el.URL &&
          el.Images &&
@@ -104,6 +106,8 @@ var newArray = obj.results.filter(function (el) {
          el.Preselect ; 
 });
 console.log(newArray);
+});
+});
 
 
 /////
