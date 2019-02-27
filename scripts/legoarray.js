@@ -1,4 +1,5 @@
-$(document).ready(function () {
+
+    $(document).ready(function () {
 $('#dynam-now').click(function () {
     
 var newArray = obj.results.filter(function (el) {
@@ -7,12 +8,13 @@ var newArray = obj.results.filter(function (el) {
          el.URL &&
          el.Images &&
          el.Description &&
-         el.Notes &&   
-         el.DashedNumber && 
+         el.DashedNumber &&
+         el.Preselect ; 
 });
 console.log(newArray);
 });
 });
+
 
     var obj = {
       'results': [{
