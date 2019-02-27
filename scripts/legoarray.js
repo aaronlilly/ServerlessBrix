@@ -74,7 +74,7 @@
 //$('#prodId').val()
 
 
-    var obj = {
+     var obj = {
       'results': [{
       "ID": 1,
       "SetNumber": 75929,
@@ -13358,10 +13358,8 @@
       "Description": "Police Buggy",
       "Notes": "BUILD.INST. FOR 8252",
       "DashedNumber": "8252-1"
-    }
-                
-       
-     
+     }
+           
     ]
 };
 
@@ -13375,8 +13373,8 @@ var newArray = obj.results.filter(function (el) {
          el.URL &&
          el.Images &&
          el.Description &&
-         el.DashedNumber &&
-         el.Preselect ; 
+         el.Notes &&   
+         el.DashedNumber &&; 
 });
 console.log(newArray);
 });
