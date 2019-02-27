@@ -1,80 +1,20 @@
-          
+$(document).ready(function () {
+$('#dynam-now').click(function () {
+    
+var newArray = obj.results.filter(function (el) {
+  return el.ID ==  $('#dynamId').val() &&
+         el.SetNumber &&
+         el.URL &&
+         el.Images &&
+         el.Description &&
+         el.Notes &&   
+         el.DashedNumber &&; 
+});
+console.log(newArray);
+});
+});
 
-//             $(document).ready(function ()  
-//             {
-//                     $.ajax
-//                         ({
-//                     method: "GET",
-//                     url: "https://aaronlilly.github.io/PokeApp/api/v2/pokemon/FakeLego2.json"
-//                          }).done(function(data)  
-
-
-
-
-//                                {  
-//                         for (var i = 0; i < data.results.length; i++) 
-//                         {
-//                             var HRF = "<a href='";
-//                             var ND = "'>";
-//                             var AA = "</a>"
-//                             var YES = '<img src="https://www.lego.com/biassets/biimg/6237212.png">';
-//                             var IGG = '<img src="';
-//                             var LST = '">'
-                           
-
-//                             $("#legoList2").append(HRF + data.results[i].URL + ND + IGG + data.results[i].Images + LST + AA);
-//                         }            
-//                               });
-//             });
-
-//         ;           
-                   
-//  $(document).ready(function () {
-//      $('#SetNumberSearch2').click(function () {
-//          $.ajax
-//              ({
-//                  method: "GET",
-//                  url: "https://aaronlilly.github.io/ServerlessBrix/apis/FakeLego2.json"
-//              }).done(function (data) {
-//                  for (var i = 0; i < data.results.length; i++) {
-//                      var HRF = "<a href='";
-//                      var Datarr = [data.results];
-//                      var UserInput = $('#prodID').val()
-//                      var newArray = Datarr.results.filter(function (el) {
-//                          return el.ID = 2924  &&
-//                              el.SetNumber &&
-//                              el.URL &&
-//                              el.Images &&
-//                              el.Description &&
-//                              el.DashedNumber &&
-//                              el.Preselect;
-//                      });
-//                      console.log(newArray);
-//                      var ND = "'>";
-//                      var AA = "</a>"
-//                      var YES = '<img src="https://www.lego.com/biassets/biimg/6237212.png">';
-//                      var IGG = '<img src="';
-//                      var LST = '">'
-                    
-//                      //data.results[i].URL
-
-
-//                      //$("#legoList2").append(HRF + data.results[i].URL + ND + IGG + data.results[i].Images + LST + AA);
-//                      $("#legoList2").append(newArray);
-//                  }
-//              });
-//      });
-// });
-//
-// $(document).ready(function () {
-// $('#search-now').click(function () {
-//     alert($('#prodId').val());
-// });
-// });
-//$('#prodId').val()
-
-
-     var obj = {
+var obj = {
       'results': [{
       "ID": 1,
       "SetNumber": 75929,
@@ -13364,34 +13304,3 @@
 };
 
 
-    $(document).ready(function () {
-$('#dynam-now').click(function () {
-    
-var newArray = obj.results.filter(function (el) {
-  return el.ID ==  $('#dynamId').val() &&
-         el.SetNumber &&
-         el.URL &&
-         el.Images &&
-         el.Description &&
-         el.Notes &&   
-         el.DashedNumber &&; 
-});
-console.log(newArray);
-});
-});
-
-
-/////
-////var newArray = Datarr.results.filter(function (el) {
-////  return el.ID ==  UserInput &&
-////         el.SetNumber &&
-////         el.URL &&
-////         el.Images &&
-////         el.Description &&
-////         el.DashedNumber &&
-////         el.Preselect ; 
-////});
-////console.log(newArray);
-
-
-///
