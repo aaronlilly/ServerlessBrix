@@ -8,7 +8,7 @@ var newArray = obj.results.filter(function (el) {
          el.Images &&
          el.Description &&
          el.Notes &&   
-         el.DashedNumber &&; 
+         el.DashedNumber && 
 });
 console.log(newArray);
 });
