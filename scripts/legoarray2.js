@@ -11,7 +11,8 @@ var newArray = obj.results.filter(function (el) {
          el.DashedNumber &&
          el.Preselect ; 
 });
-console.log(newArray);
+    $('#ArrayD').append(NewArray);
+// console.log(newArray);
 });
 });
 
