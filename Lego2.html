@@ -18,11 +18,8 @@
 	
 <script type="text/javascript">
 $(document).ready(function() {
-  $('#add-row').click(function() {
-  	var FLname =  "<br>" +
-  		$('#first-name').val() + " "+
-  		$('#last-name').val() +" ";
-    $('div#data-rows').append(FLname);
+  $('#dynam-now').click(function() {
+  	    $('div#data-rows').append($('#dynamId').val());
     
   });
  
@@ -85,7 +82,7 @@ $(document).ready(function() {
     <br>
 	<br>
 	<div id='data-rows'>
-		<thead>
+<!-- 		<thead>
 			<tr>
 			</tr>
 			<tr>
@@ -99,7 +96,7 @@ $(document).ready(function() {
 			</tr>
 		</thead>
 		<tbody>
-		</tbody>
+		</tbody> -->
 	</div>
 
     
