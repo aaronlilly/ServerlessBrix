@@ -1,6 +1,20 @@
 <!DOCTYPE html>
 <html>
 <head>
+    
+    <script type="text/javascript">
+$(document).ready(function() {
+  $('#add-row').click(function() {
+  	var FLname =  "<br>" +
+  		$('#first-name').val() + " "+
+  		$('#last-name').val() +" ";
+    $('div#data-rows').append(FLname);
+    
+  });
+ 
+});		
+</script>
+    
     <title>
         Lego Brix2
     </title>
@@ -66,6 +80,25 @@
     </nav>
 <div id="ArrayD" style="margin-top:15%;"> </div>
     array above
+    
+    <div id='data-rows'>
+		<thead>
+			<tr>
+			</tr>
+			<tr>
+				<th>
+					<input type='text' maxlength="25" id='first-name' placeholder="First Name">
+				<br>
+					<input type='text' maxlength="25" id='last-name' placeholder="Last Name">
+				<br>
+					<button id='add-row' title='Click to add a row to the list'>Add Person</button>
+				</th>
+			</tr>
+		</thead>
+		<tbody>
+		</tbody>
+	</div>
+    
     <div id="legoList2" style="margin-top:15%;"> </div>
     
  <input type="text" id="dynamId" size="37" placeholder="Enter Text to show in the alert" style="margin-left: 50px;margin-top: 10px;padding-bottom: 5px;padding-top: 4px;">
