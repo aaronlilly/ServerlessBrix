@@ -11,7 +11,7 @@ var newArray = obj.results.filter(function (el) {
          el.DashedNumber &&
          el.Preselect ; 
 });
-    $('#ArrayD').append(NewArray);
+    $('div#data-rows').append($('#dynamId').val())
 // console.log(newArray);
 });
 });
