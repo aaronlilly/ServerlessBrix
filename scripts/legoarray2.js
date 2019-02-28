@@ -16,6 +16,15 @@ var newArray = obj.results.filter(function (el) {
 });
 });
 
+// $(document).ready(function() {
+//   $('#dynam-now2').click(function() {
+//   	    $('div#data-rows').append($('#dynamId').val());
+    
+//   });
+ 
+// });		
+
+
  var obj = {
       'results': [{
             "ID": 2924,
