@@ -1,7 +1,5 @@
-
-    $(document).ready(function () {
+$(document).ready(function () {
 $('#dynam-now').click(function () {
-  
 var newArray = obj.results.filter(function (el) {
     return el.ID &&
         el.SetNumber == $('#dynamId').val() &&
@@ -10,20 +8,25 @@ var newArray = obj.results.filter(function (el) {
         el.Description &&
         el.Notes &&
         el.DashedNumber;
-         
     });
-    for (var i = 0; i < newArray.length; i++) {
-        $('#ArrayD').append("<a href ='" + newArray[i].URL + "'> <img src='" + newArray[i].Images + "''></a>" + '<span class="badge badge-primary" style="background:#428bca;margin-left: 20px;"> <figcaption>' + newArray[i].Description + ' </figcaption>')
+   
+
+    for (var i = 0; i < newArray.length; i++)
+       
+    {
+        $('#ArrayD').append("<div class='col - sm' style='float:left;'><figure><a href ='" + newArray[i].URL + "'> <img src='" + newArray[i].Images + "'>" + '<figcaption> <span class="badge badge-primary" style="background:#428bca;margin-left: 20px;">' + newArray[i].Description + ' </figcaption></span></figure></div>')
     };
 });
 });
-//<a href=" @lego.URL " target="_blank"><img src=" @lego.Images " /></a>
-//<span class="badge badge-primary" style="background:#428bca;margin-left: 20px;">
-//    <figcaption>  @lego.Description  </figcaption>
+//<figure>
+//    <img src="https://www.lego.com/biassets/biimg/6237211.png">
+//        <figcaption>Description</figcaption>
+//</figure>
+//<div class='col - sm'>
 
-// for (var i = 0; i < newArray.length; i++) {
-//$('#ArrayD').append("<a href ='" + newArray[0].URL + "'> <img src='" + newArray[0].Images + "''>" + newArray[0].SetNumber + " " + newArray[0].Description)
-    //};
+
+
+
 
  var obj = {
      'results': [{
@@ -43,7 +46,6 @@ var newArray = obj.results.filter(function (el) {
          "Description": "Carnotaurus Gyrosphere Escape",
          "Notes": "No longer listed at LEGO.com",
          "DashedNumber": "75929-1"
-    }
-           
+    }       
     ]
 };
