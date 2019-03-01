@@ -14,7 +14,7 @@ var newArray = obj.results.filter(function (el) {
     for (var i = 0; i < newArray.length; i++)
        
     {
-        $('#ArrayD').append("<div class='col - sm' style='float:left;'><figure><a href ='" + newArray[i].URL + "'> <img src='" + newArray[i].Images + "'>" + '<figcaption> <span class="badge badge-primary" style="background:#428bca;margin-left: 20px;">' + newArray[i].Description + ' </figcaption></span></figure></div>')
+        $('#ArrayD').append("<div class='col - sm' style='float:left;'><figure><a href ='" + newArray[i].URL + "'> <img src='" + newArray[i].Images + "'>" + '<figcaption> <span class="badge badge-primary" style="background:#5cb85c;margin-left: 20px;">' + newArray[i].SetNumber + " " + '</span><span class="badge badge-primary" style="background:#428bca;"> '+newArray[i].Description + ' </figcaption></span></figure></div>')
     };
 });
 });
