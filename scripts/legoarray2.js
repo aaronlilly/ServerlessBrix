@@ -11,9 +11,8 @@ var newArray = obj.results.filter(function (el) {
          el.DashedNumber &&
          el.Preselect ; 
 });
-var NRZ = newArray.results[0].
-var SP = " "
-    $('#ArrayD').append(newArray.results[0].ID + SP + newArray.results[0].SetNumber + SP +  NRZ+URL )
+
+    $('#ArrayD').append(newArray.results[0].ID + newArray.results[0].Description)
 console.log(newArray);
 // $('#ArrayD').append($('#dynamId').val())
 });
