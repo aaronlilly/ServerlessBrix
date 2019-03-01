@@ -3,33 +3,30 @@
 $('#dynam-now').click(function () {
   
 var newArray = obj.results.filter(function (el) {
-    return el.ID == $('#dynamId').val() &&
-        el.SetNumber &&
+    return el.ID &&
+        el.SetNumber == $('#dynamId').val() &&
         el.URL &&
         el.Images &&
         el.Description &&
         el.Notes &&
         el.DashedNumber;
          
+    });
+    for (var i = 0; i < newArray.length; i++) {
+        $('#ArrayD').append("<a href ='" + newArray[i].URL + "'> <img src='" + newArray[i].Images + "''></a>" + '<span class="badge badge-primary" style="background:#428bca;margin-left: 20px;"> <figcaption>' + newArray[i].Description + ' </figcaption>')
+    };
 });
-  
-    $('#ArrayD').append("<a href ='" + newArray[0].URL + "'> <img src='" + newArray[0].Images + "''>"  + newArray[0].ID + " " + newArray[0].Description)
-console.log(newArray);
-// $('#ArrayD').append($('#dynamId').val())
 });
-});
+//<a href=" @lego.URL " target="_blank"><img src=" @lego.Images " /></a>
+//<span class="badge badge-primary" style="background:#428bca;margin-left: 20px;">
+//    <figcaption>  @lego.Description  </figcaption>
 
-$(document).ready(function() {
-  $('#dynam-now2').click(function() {
-  	    $('div#data-rows').append($('#dynamId').val());
-    
-  });
- 
-});		
-
+// for (var i = 0; i < newArray.length; i++) {
+//$('#ArrayD').append("<a href ='" + newArray[0].URL + "'> <img src='" + newArray[0].Images + "''>" + newArray[0].SetNumber + " " + newArray[0].Description)
+    //};
 
  var obj = {
-     'results': [
+     'results': [{
          "ID": 1,
          "SetNumber": 75929,
          "URL": "https://www.lego.com/biassets/bi/6237211.pdf",
