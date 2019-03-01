@@ -11,7 +11,9 @@ var newArray = obj.results.filter(function (el) {
          el.DashedNumber &&
          el.Preselect ; 
 });
-    $('#ArrayD').append(newArray.results[0] + newArray.results[1])
+var NRZ = newArray.results[0].
+var SP = " "
+    $('#ArrayD').append(newArray.results[0].ID + SP + newArray.results[0].SetNumber + SP +  NRZ+URL )
 console.log(newArray);
 // $('#ArrayD').append($('#dynamId').val())
 });
@@ -28,7 +30,7 @@ $(document).ready(function() {
 
  var obj = {
       'results': [{
-            "ID": 2924,
+      "ID": 2924,
       "SetNumber": 7942,
       "URL": "https://www.lego.com/biassets/bi/4586972.pdf",
       "Images": "https://www.lego.com/biassets/biimg/4586972.png",
