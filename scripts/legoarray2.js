@@ -1,7 +1,7 @@
 
     $(document).ready(function () {
 $('#dynam-now').click(function () {
-    
+  
 var newArray = obj.results.filter(function (el) {
   return el.ID ==  $('#dynamId').val() &&
          el.SetNumber &&
@@ -11,7 +11,8 @@ var newArray = obj.results.filter(function (el) {
          el.DashedNumber &&
          el.Preselect ; 
 });
-    $('#ArrayD').append(newArray[0].ID)
+  
+    $('#ArrayD').append("<a href ='" + newArray[0].URL + "'> <img src='" + newArray[0].Images + "''>"  + newArray[0].ID + " " + newArray[0].Description)
 console.log(newArray);
 // $('#ArrayD').append($('#dynamId').val())
 });
