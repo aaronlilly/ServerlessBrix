@@ -1,0 +1,984 @@
+{'results':[
+  {
+    "theme": "4 Juniors",
+    "setCount": 24,
+    "subthemeCount": 5,
+    "yearFrom": 2003,
+    "yearTo": 2004
+  },
+  {
+    "theme": "Action Wheelers",
+    "setCount": 9,
+    "subthemeCount": 0,
+    "yearFrom": 2000,
+    "yearTo": 2001
+  },
+  {
+    "theme": "Adventurers",
+    "setCount": 72,
+    "subthemeCount": 4,
+    "yearFrom": 1998,
+    "yearTo": 2003
+  },
+  {
+    "theme": "Agents",
+    "setCount": 13,
+    "subthemeCount": 0,
+    "yearFrom": 2008,
+    "yearTo": 2009
+  },
+  {
+    "theme": "Alpha Team",
+    "setCount": 32,
+    "subthemeCount": 3,
+    "yearFrom": 2001,
+    "yearTo": 2005
+  },
+  {
+    "theme": "Aqua Raiders",
+    "setCount": 7,
+    "subthemeCount": 0,
+    "yearFrom": 2007,
+    "yearTo": 2007
+  },
+  {
+    "theme": "Aquazone",
+    "setCount": 28,
+    "subthemeCount": 6,
+    "yearFrom": 1995,
+    "yearTo": 1999
+  },
+  {
+    "theme": "Architecture",
+    "setCount": 51,
+    "subthemeCount": 4,
+    "yearFrom": 2008,
+    "yearTo": 2019
+  },
+  {
+    "theme": "Assorted",
+    "setCount": 9,
+    "subthemeCount": 1,
+    "yearFrom": 1989,
+    "yearTo": 1995
+  },
+  {
+    "theme": "Atlantis",
+    "setCount": 24,
+    "subthemeCount": 1,
+    "yearFrom": 2010,
+    "yearTo": 2011
+  },
+  {
+    "theme": "Avatar The Last Airbender",
+    "setCount": 2,
+    "subthemeCount": 0,
+    "yearFrom": 2006,
+    "yearTo": 2006
+  },
+  {
+    "theme": "Baby",
+    "setCount": 44,
+    "subthemeCount": 1,
+    "yearFrom": 2000,
+    "yearTo": 2005
+  },
+  {
+    "theme": "Basic",
+    "setCount": 406,
+    "subthemeCount": 5,
+    "yearFrom": 1972,
+    "yearTo": 2003
+  },
+  {
+    "theme": "Batman",
+    "setCount": 15,
+    "subthemeCount": 0,
+    "yearFrom": 2005,
+    "yearTo": 2008
+  },
+  {
+    "theme": "Belville",
+    "setCount": 82,
+    "subthemeCount": 3,
+    "yearFrom": 1994,
+    "yearTo": 2008
+  },
+  {
+    "theme": "Ben 10: Alien Force",
+    "setCount": 6,
+    "subthemeCount": 0,
+    "yearFrom": 2010,
+    "yearTo": 2010
+  },
+  {
+    "theme": "Bionicle",
+    "setCount": 389,
+    "subthemeCount": 38,
+    "yearFrom": 2001,
+    "yearTo": 2016
+  },
+  {
+    "theme": "Boats",
+    "setCount": 12,
+    "subthemeCount": 0,
+    "yearFrom": 1982,
+    "yearTo": 1996
+  },
+  {
+    "theme": "Books",
+    "setCount": 287,
+    "subthemeCount": 36,
+    "yearFrom": 1966,
+    "yearTo": 2019
+  },
+  {
+    "theme": "Boost",
+    "setCount": 1,
+    "subthemeCount": 0,
+    "yearFrom": 2017,
+    "yearTo": 2017
+  },
+  {
+    "theme": "BrickHeadz",
+    "setCount": 80,
+    "subthemeCount": 10,
+    "yearFrom": 2016,
+    "yearTo": 2019
+  },
+  {
+    "theme": "Bricks and More",
+    "setCount": 67,
+    "subthemeCount": 3,
+    "yearFrom": 2006,
+    "yearTo": 2014
+  },
+  {
+    "theme": "Building Set with People",
+    "setCount": 29,
+    "subthemeCount": 0,
+    "yearFrom": 1974,
+    "yearTo": 1978
+  },
+  {
+    "theme": "Bulk Bricks",
+    "setCount": 141,
+    "subthemeCount": 5,
+    "yearFrom": 2000,
+    "yearTo": 2006
+  },
+  {
+    "theme": "Cars",
+    "setCount": 28,
+    "subthemeCount": 3,
+    "yearFrom": 2011,
+    "yearTo": 2012
+  },
+  {
+    "theme": "Castle",
+    "setCount": 281,
+    "subthemeCount": 23,
+    "yearFrom": 1978,
+    "yearTo": 2016
+  },
+  {
+    "theme": "City",
+    "setCount": 595,
+    "subthemeCount": 27,
+    "yearFrom": 2005,
+    "yearTo": 2019
+  },
+  {
+    "theme": "Classic",
+    "setCount": 55,
+    "subthemeCount": 3,
+    "yearFrom": 1998,
+    "yearTo": 2019
+  },
+  {
+    "theme": "Clikits",
+    "setCount": 85,
+    "subthemeCount": 2,
+    "yearFrom": 2003,
+    "yearTo": 2006
+  },
+  {
+    "theme": "Collectable Minifigures",
+    "setCount": 574,
+    "subthemeCount": 30,
+    "yearFrom": 2010,
+    "yearTo": 2019
+  },
+  {
+    "theme": "Creator",
+    "setCount": 409,
+    "subthemeCount": 7,
+    "yearFrom": 1995,
+    "yearTo": 2019
+  },
+  {
+    "theme": "Creator Expert",
+    "setCount": 67,
+    "subthemeCount": 11,
+    "yearFrom": 2000,
+    "yearTo": 2019
+  },
+  {
+    "theme": "Dacta",
+    "setCount": 163,
+    "subthemeCount": 10,
+    "yearFrom": 1960,
+    "yearTo": 2003
+  },
+  {
+    "theme": "DC Comics Super Heroes",
+    "setCount": 104,
+    "subthemeCount": 13,
+    "yearFrom": 2011,
+    "yearTo": 2019
+  },
+  {
+    "theme": "DC Super Hero Girls",
+    "setCount": 12,
+    "subthemeCount": 1,
+    "yearFrom": 2016,
+    "yearTo": 2017
+  },
+  {
+    "theme": "Dimensions",
+    "setCount": 68,
+    "subthemeCount": 6,
+    "yearFrom": 2015,
+    "yearTo": 2017
+  },
+  {
+    "theme": "Dino",
+    "setCount": 7,
+    "subthemeCount": 0,
+    "yearFrom": 2012,
+    "yearTo": 2012
+  },
+  {
+    "theme": "Dino 2010",
+    "setCount": 5,
+    "subthemeCount": 0,
+    "yearFrom": 2005,
+    "yearTo": 2005
+  },
+  {
+    "theme": "Dino Attack",
+    "setCount": 6,
+    "subthemeCount": 0,
+    "yearFrom": 2005,
+    "yearTo": 2006
+  },
+  {
+    "theme": "Dinosaurs",
+    "setCount": 12,
+    "subthemeCount": 0,
+    "yearFrom": 2001,
+    "yearTo": 2001
+  },
+  {
+    "theme": "Discovery",
+    "setCount": 6,
+    "subthemeCount": 0,
+    "yearFrom": 2003,
+    "yearTo": 2003
+  },
+  {
+    "theme": "Disney",
+    "setCount": 48,
+    "subthemeCount": 10,
+    "yearFrom": 2014,
+    "yearTo": 2019
+  },
+  {
+    "theme": "Dots",
+    "setCount": 11,
+    "subthemeCount": 0,
+    "yearFrom": 2019,
+    "yearTo": 2019
+  },
+  {
+    "theme": "Duplo",
+    "setCount": 1189,
+    "subthemeCount": 45,
+    "yearFrom": 1969,
+    "yearTo": 2019
+  },
+  {
+    "theme": "Education",
+    "setCount": 204,
+    "subthemeCount": 11,
+    "yearFrom": 1998,
+    "yearTo": 2018
+  },
+  {
+    "theme": "Elves",
+    "setCount": 41,
+    "subthemeCount": 1,
+    "yearFrom": 2015,
+    "yearTo": 2018
+  },
+  {
+    "theme": "Exo-Force",
+    "setCount": 44,
+    "subthemeCount": 4,
+    "yearFrom": 2006,
+    "yearTo": 2008
+  },
+  {
+    "theme": "Explore",
+    "setCount": 127,
+    "subthemeCount": 8,
+    "yearFrom": 2002,
+    "yearTo": 2004
+  },
+  {
+    "theme": "Fabuland",
+    "setCount": 107,
+    "subthemeCount": 0,
+    "yearFrom": 1979,
+    "yearTo": 1989
+  },
+  {
+    "theme": "Factory",
+    "setCount": 7,
+    "subthemeCount": 3,
+    "yearFrom": 2005,
+    "yearTo": 2008
+  },
+  {
+    "theme": "FORMA",
+    "setCount": 4,
+    "subthemeCount": 0,
+    "yearFrom": 2019,
+    "yearTo": 2019
+  },
+  {
+    "theme": "Freestyle",
+    "setCount": 75,
+    "subthemeCount": 0,
+    "yearFrom": 1995,
+    "yearTo": 1999
+  },
+  {
+    "theme": "Friends",
+    "setCount": 341,
+    "subthemeCount": 21,
+    "yearFrom": 2012,
+    "yearTo": 2019
+  },
+  {
+    "theme": "Fusion",
+    "setCount": 4,
+    "subthemeCount": 0,
+    "yearFrom": 2014,
+    "yearTo": 2014
+  },
+  {
+    "theme": "Galidor",
+    "setCount": 20,
+    "subthemeCount": 0,
+    "yearFrom": 2002,
+    "yearTo": 2002
+  },
+  {
+    "theme": "Games",
+    "setCount": 49,
+    "subthemeCount": 3,
+    "yearFrom": 2009,
+    "yearTo": 2013
+  },
+  {
+    "theme": "Gear",
+    "setCount": 2132,
+    "subthemeCount": 136,
+    "yearFrom": 1971,
+    "yearTo": 2019
+  },
+  {
+    "theme": "Ghostbusters",
+    "setCount": 2,
+    "subthemeCount": 0,
+    "yearFrom": 2016,
+    "yearTo": 2016
+  },
+  {
+    "theme": "Harry Potter",
+    "setCount": 64,
+    "subthemeCount": 10,
+    "yearFrom": 2001,
+    "yearTo": 2011
+  },
+  {
+    "theme": "HERO Factory",
+    "setCount": 106,
+    "subthemeCount": 1,
+    "yearFrom": 2010,
+    "yearTo": 2014
+  },
+  {
+    "theme": "Hidden Side",
+    "setCount": 8,
+    "subthemeCount": 0,
+    "yearFrom": 2019,
+    "yearTo": 2019
+  },
+  {
+    "theme": "Hobby Set",
+    "setCount": 9,
+    "subthemeCount": 0,
+    "yearFrom": 1975,
+    "yearTo": 2003
+  },
+  {
+    "theme": "Homemaker",
+    "setCount": 32,
+    "subthemeCount": 0,
+    "yearFrom": 1971,
+    "yearTo": 1982
+  },
+  {
+    "theme": "Ideas",
+    "setCount": 24,
+    "subthemeCount": 2,
+    "yearFrom": 2010,
+    "yearTo": 2019
+  },
+  {
+    "theme": "Indiana Jones",
+    "setCount": 18,
+    "subthemeCount": 4,
+    "yearFrom": 2008,
+    "yearTo": 2009
+  },
+  {
+    "theme": "Island Xtreme Stunts",
+    "setCount": 13,
+    "subthemeCount": 0,
+    "yearFrom": 2002,
+    "yearTo": 2003
+  },
+  {
+    "theme": "Jack Stone",
+    "setCount": 25,
+    "subthemeCount": 0,
+    "yearFrom": 2001,
+    "yearTo": 2002
+  },
+  {
+    "theme": "Juniors",
+    "setCount": 67,
+    "subthemeCount": 13,
+    "yearFrom": 2014,
+    "yearTo": 2018
+  },
+  {
+    "theme": "Jurassic World",
+    "setCount": 28,
+    "subthemeCount": 5,
+    "yearFrom": 2015,
+    "yearTo": 2019
+  },
+  {
+    "theme": "Legends of Chima",
+    "setCount": 142,
+    "subthemeCount": 11,
+    "yearFrom": 2013,
+    "yearTo": 2015
+  },
+  {
+    "theme": "LEGOLAND",
+    "setCount": 162,
+    "subthemeCount": 6,
+    "yearFrom": 1969,
+    "yearTo": 1978
+  },
+  {
+    "theme": "Life of George",
+    "setCount": 2,
+    "subthemeCount": 0,
+    "yearFrom": 2011,
+    "yearTo": 2012
+  },
+  {
+    "theme": "Make and Create",
+    "setCount": 44,
+    "subthemeCount": 1,
+    "yearFrom": 2005,
+    "yearTo": 2012
+  },
+  {
+    "theme": "Marvel Super Heroes",
+    "setCount": 122,
+    "subthemeCount": 22,
+    "yearFrom": 2012,
+    "yearTo": 2019
+  },
+  {
+    "theme": "Master Builder Academy",
+    "setCount": 17,
+    "subthemeCount": 0,
+    "yearFrom": 2011,
+    "yearTo": 2013
+  },
+  {
+    "theme": "Mickey Mouse",
+    "setCount": 5,
+    "subthemeCount": 0,
+    "yearFrom": 2000,
+    "yearTo": 2000
+  },
+  {
+    "theme": "Mindstorms",
+    "setCount": 67,
+    "subthemeCount": 7,
+    "yearFrom": 1998,
+    "yearTo": 2015
+  },
+  {
+    "theme": "Minecraft",
+    "setCount": 47,
+    "subthemeCount": 4,
+    "yearFrom": 2013,
+    "yearTo": 2019
+  },
+  {
+    "theme": "Minitalia",
+    "setCount": 21,
+    "subthemeCount": 0,
+    "yearFrom": 1970,
+    "yearTo": 1977
+  },
+  {
+    "theme": "Miscellaneous",
+    "setCount": 146,
+    "subthemeCount": 13,
+    "yearFrom": 2001,
+    "yearTo": 2019
+  },
+  {
+    "theme": "Mixels",
+    "setCount": 90,
+    "subthemeCount": 9,
+    "yearFrom": 2014,
+    "yearTo": 2016
+  },
+  {
+    "theme": "Model Team",
+    "setCount": 16,
+    "subthemeCount": 0,
+    "yearFrom": 1986,
+    "yearTo": 2004
+  },
+  {
+    "theme": "Monster Fighters",
+    "setCount": 13,
+    "subthemeCount": 1,
+    "yearFrom": 2012,
+    "yearTo": 2012
+  },
+  {
+    "theme": "Nexo Knights",
+    "setCount": 107,
+    "subthemeCount": 12,
+    "yearFrom": 2016,
+    "yearTo": 2018
+  },
+  {
+    "theme": "Ninjago",
+    "setCount": 292,
+    "subthemeCount": 25,
+    "yearFrom": 2011,
+    "yearTo": 2019
+  },
+  {
+    "theme": "Overwatch",
+    "setCount": 10,
+    "subthemeCount": 0,
+    "yearFrom": 2018,
+    "yearTo": 2019
+  },
+  {
+    "theme": "Pharaoh's Quest",
+    "setCount": 9,
+    "subthemeCount": 0,
+    "yearFrom": 2011,
+    "yearTo": 2011
+  },
+  {
+    "theme": "Pirates",
+    "setCount": 84,
+    "subthemeCount": 8,
+    "yearFrom": 1989,
+    "yearTo": 2015
+  },
+  {
+    "theme": "Pirates of the Caribbean",
+    "setCount": 15,
+    "subthemeCount": 4,
+    "yearFrom": 2011,
+    "yearTo": 2017
+  },
+  {
+    "theme": "Power Functions",
+    "setCount": 18,
+    "subthemeCount": 3,
+    "yearFrom": 2008,
+    "yearTo": 2013
+  },
+  {
+    "theme": "Power Miners",
+    "setCount": 22,
+    "subthemeCount": 2,
+    "yearFrom": 2009,
+    "yearTo": 2010
+  },
+  {
+    "theme": "Powered Up",
+    "setCount": 7,
+    "subthemeCount": 0,
+    "yearFrom": 2018,
+    "yearTo": 2019
+  },
+  {
+    "theme": "PreSchool",
+    "setCount": 14,
+    "subthemeCount": 0,
+    "yearFrom": 1975,
+    "yearTo": 1978
+  },
+  {
+    "theme": "Primo",
+    "setCount": 52,
+    "subthemeCount": 0,
+    "yearFrom": 1995,
+    "yearTo": 1999
+  },
+  {
+    "theme": "Prince of Persia",
+    "setCount": 6,
+    "subthemeCount": 0,
+    "yearFrom": 2010,
+    "yearTo": 2010
+  },
+  {
+    "theme": "Promotional",
+    "setCount": 429,
+    "subthemeCount": 16,
+    "yearFrom": 1977,
+    "yearTo": 2019
+  },
+  {
+    "theme": "Quatro",
+    "setCount": 10,
+    "subthemeCount": 0,
+    "yearFrom": 2004,
+    "yearTo": 2006
+  },
+  {
+    "theme": "Racers",
+    "setCount": 248,
+    "subthemeCount": 11,
+    "yearFrom": 1998,
+    "yearTo": 2013
+  },
+  {
+    "theme": "Rock Raiders",
+    "setCount": 16,
+    "subthemeCount": 1,
+    "yearFrom": 1999,
+    "yearTo": 2000
+  },
+  {
+    "theme": "Samsonite",
+    "setCount": 268,
+    "subthemeCount": 7,
+    "yearFrom": 1961,
+    "yearTo": 1979
+  },
+  {
+    "theme": "Scala",
+    "setCount": 75,
+    "subthemeCount": 1,
+    "yearFrom": 1979,
+    "yearTo": 2001
+  },
+  {
+    "theme": "Scooby-Doo",
+    "setCount": 7,
+    "subthemeCount": 0,
+    "yearFrom": 2015,
+    "yearTo": 2016
+  },
+  {
+    "theme": "Seasonal",
+    "setCount": 152,
+    "subthemeCount": 10,
+    "yearFrom": 1999,
+    "yearTo": 2019
+  },
+  {
+    "theme": "Serious Play",
+    "setCount": 30,
+    "subthemeCount": 0,
+    "yearFrom": 2007,
+    "yearTo": 2015
+  },
+  {
+    "theme": "Service Packs",
+    "setCount": 377,
+    "subthemeCount": 16,
+    "yearFrom": 1977,
+    "yearTo": 1999
+  },
+  {
+    "theme": "Space",
+    "setCount": 322,
+    "subthemeCount": 22,
+    "yearFrom": 1978,
+    "yearTo": 2015
+  },
+  {
+    "theme": "Speed Champions",
+    "setCount": 33,
+    "subthemeCount": 10,
+    "yearFrom": 2015,
+    "yearTo": 2019
+  },
+  {
+    "theme": "Spider-Man",
+    "setCount": 11,
+    "subthemeCount": 3,
+    "yearFrom": 2003,
+    "yearTo": 2004
+  },
+  {
+    "theme": "SpongeBob SquarePants",
+    "setCount": 14,
+    "subthemeCount": 0,
+    "yearFrom": 2006,
+    "yearTo": 2012
+  },
+  {
+    "theme": "Sports",
+    "setCount": 131,
+    "subthemeCount": 5,
+    "yearFrom": 2000,
+    "yearTo": 2007
+  },
+  {
+    "theme": "Spybotics",
+    "setCount": 4,
+    "subthemeCount": 0,
+    "yearFrom": 2002,
+    "yearTo": 2002
+  },
+  {
+    "theme": "Star Wars",
+    "setCount": 701,
+    "subthemeCount": 31,
+    "yearFrom": 1999,
+    "yearTo": 2019
+  },
+  {
+    "theme": "Studios",
+    "setCount": 55,
+    "subthemeCount": 2,
+    "yearFrom": 2000,
+    "yearTo": 2002
+  },
+  {
+    "theme": "System",
+    "setCount": 433,
+    "subthemeCount": 10,
+    "yearFrom": 1949,
+    "yearTo": 1970
+  },
+  {
+    "theme": "Technic",
+    "setCount": 415,
+    "subthemeCount": 9,
+    "yearFrom": 1977,
+    "yearTo": 2019
+  },
+  {
+    "theme": "Teenage Mutant Ninja Turtles",
+    "setCount": 20,
+    "subthemeCount": 3,
+    "yearFrom": 2012,
+    "yearTo": 2014
+  },
+  {
+    "theme": "The Angry Birds Movie",
+    "setCount": 6,
+    "subthemeCount": 0,
+    "yearFrom": 2016,
+    "yearTo": 2016
+  },
+  {
+    "theme": "The Hobbit",
+    "setCount": 24,
+    "subthemeCount": 4,
+    "yearFrom": 2012,
+    "yearTo": 2014
+  },
+  {
+    "theme": "The LEGO Batman Movie",
+    "setCount": 45,
+    "subthemeCount": 4,
+    "yearFrom": 2017,
+    "yearTo": 2019
+  },
+  {
+    "theme": "The LEGO Movie",
+    "setCount": 33,
+    "subthemeCount": 3,
+    "yearFrom": 2014,
+    "yearTo": 2015
+  },
+  {
+    "theme": "The Lego Movie 2: The Second Part",
+    "setCount": 38,
+    "subthemeCount": 3,
+    "yearFrom": 2018,
+    "yearTo": 2019
+  },
+  {
+    "theme": "The LEGO Ninjago Movie",
+    "setCount": 31,
+    "subthemeCount": 3,
+    "yearFrom": 2017,
+    "yearTo": 2018
+  },
+  {
+    "theme": "The Lone Ranger",
+    "setCount": 8,
+    "subthemeCount": 0,
+    "yearFrom": 2013,
+    "yearTo": 2013
+  },
+  {
+    "theme": "The Lord of the Rings",
+    "setCount": 16,
+    "subthemeCount": 4,
+    "yearFrom": 2012,
+    "yearTo": 2013
+  },
+  {
+    "theme": "The Powerpuff Girls",
+    "setCount": 2,
+    "subthemeCount": 0,
+    "yearFrom": 2018,
+    "yearTo": 2018
+  },
+  {
+    "theme": "The Simpsons",
+    "setCount": 2,
+    "subthemeCount": 0,
+    "yearFrom": 2014,
+    "yearTo": 2015
+  },
+  {
+    "theme": "Time Cruisers",
+    "setCount": 9,
+    "subthemeCount": 1,
+    "yearFrom": 1996,
+    "yearTo": 1997
+  },
+  {
+    "theme": "Town",
+    "setCount": 647,
+    "subthemeCount": 35,
+    "yearFrom": 1978,
+    "yearTo": 2004
+  },
+  {
+    "theme": "Toy Story",
+    "setCount": 21,
+    "subthemeCount": 4,
+    "yearFrom": 2010,
+    "yearTo": 2019
+  },
+  {
+    "theme": "Trains",
+    "setCount": 205,
+    "subthemeCount": 7,
+    "yearFrom": 1966,
+    "yearTo": 2006
+  },
+  {
+    "theme": "Ultra Agents",
+    "setCount": 14,
+    "subthemeCount": 0,
+    "yearFrom": 2014,
+    "yearTo": 2015
+  },
+  {
+    "theme": "Unikitty",
+    "setCount": 24,
+    "subthemeCount": 2,
+    "yearFrom": 2018,
+    "yearTo": 2018
+  },
+  {
+    "theme": "Universal Building Set",
+    "setCount": 43,
+    "subthemeCount": 3,
+    "yearFrom": 1969,
+    "yearTo": 1987
+  },
+  {
+    "theme": "Vikings",
+    "setCount": 7,
+    "subthemeCount": 0,
+    "yearFrom": 2005,
+    "yearTo": 2006
+  },
+  {
+    "theme": "Western",
+    "setCount": 20,
+    "subthemeCount": 2,
+    "yearFrom": 1996,
+    "yearTo": 2002
+  },
+  {'results':[
+  {
+    "theme": "Wizarding World",
+    "setCount": 11,
+    "subthemeCount": 3,
+    "yearFrom": 2018,
+    "yearTo": 2018
+  },
+  {
+    "theme": "World City",
+    "setCount": 38,
+    "subthemeCount": 4,
+    "yearFrom": 2003,
+    "yearTo": 2004
+  },
+  {
+    "theme": "World Racers",
+    "setCount": 9,
+    "subthemeCount": 0,
+    "yearFrom": 2010,
+    "yearTo": 2010
+  },
+  {
+    "theme": "Xtra",
+    "setCount": 10,
+    "subthemeCount": 0,
+    "yearFrom": 2018,
+    "yearTo": 2019
+  },
+  {
+    "theme": "Znap",
+    "setCount": 20,
+    "subthemeCount": 0,
+    "yearFrom": 1998,
+    "yearTo": 1999
+  }
+]
+};
