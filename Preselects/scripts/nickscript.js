@@ -11,7 +11,7 @@
                         // for (var i = 0; i < data.nick.length; i++) 
                         // {
       
-                         console.log(data.nick.[i].page);
+                         console.log(data.nick.page);
                         // }            
                               });
             });
