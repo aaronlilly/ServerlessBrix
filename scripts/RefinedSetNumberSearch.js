@@ -31,8 +31,7 @@ var newArray = obj.results.filter(function (el) {
 
 
  var obj = {
-  "results": [
-    {
+     'results': [{
     "SetNumber": 260,
     "URL": "https://www.lego.com/biassets/bi/120086.pdf",
     "Images": "https://www.lego.com/biassets/biimg/120086.png",
@@ -124843,6 +124842,6 @@ var newArray = obj.results.filter(function (el) {
     "Notes": "BI 3018/80+4/115+150g, 4000018, V110",
     "Dashed-Number": "4000018-1",
     "DateAdded": "5/28/2015"
-   }
-  ]
-}
+ }       
+    ]
+};
