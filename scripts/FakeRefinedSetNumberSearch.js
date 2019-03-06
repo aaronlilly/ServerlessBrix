@@ -20,20 +20,20 @@ $(document).ready(function () {
 var obj = {
     'results': [{
         "ID": 1,
-        "SetNumber": 75929,
-        "URL": "https://www.lego.com/biassets/bi/6237211.pdf",
-        "Images": "https://www.lego.com/biassets/biimg/6237211.png",
-        "Description": "Carnotaurus Gyrosphere Escape",
-        "Notes": "BI 3017 / 68+4 - 65/115g, 75929 1/2 V39",
+        "SetNumber": 260,
+        "URL": "https://www.lego.com/biassets/bi/120086.pdf",
+        "Images": "https://www.lego.com/biassets/biimg/120086.png",
+        "Description": "BUILDING BOOK",
+        "Notes": "{No longer listed at LEGO.com}",
         "DashedNumber": "75929-1"
     },
     {
         "ID": 2,
-        "SetNumber": 75929,
-        "URL": "https://www.lego.com/biassets/bi/6237212.pdf",
-        "Images": "https://www.lego.com/biassets/biimg/6237212.png",
-        "Description": "Carnotaurus Gyrosphere Escape",
-        "Notes": "No longer listed at LEGO.com",
+        "SetNumber": 260,
+        "URL": "https://www.lego.com/biassets/bi/120087.pdf",
+        "Images": "https://www.lego.com/biassets/biimg/120087.png",
+        "Description": "BUILDING BOOK",
+        "Notes": "{No longer listed at LEGO.com}",
         "DashedNumber": "75929-1"
     }
     ]
