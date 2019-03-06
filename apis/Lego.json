@@ -1,6 +1,4 @@
 {
-  "count": 13000,
-  "previous": null,
   "results": [
     {
       "ID": 1,
@@ -117380,5 +117378,6 @@
       "Notes": "BI 3017 / 68+4 - 65/115g, 75929 1/2 V29",
       "DashedNumber": "75929-1"
     }
-  ],"next":"https:\/\/pokeapi.co\/api\/v2\/pokemon\/?limit=151&offset=151"}
+  ]
+}
 
