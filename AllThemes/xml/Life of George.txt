@@ -1,0 +1,103 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<ArrayOfSets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://brickset.com/api/">
+<sets>
+<setID>9021</setID>
+<number>21200</number>
+<numberVariant>1</numberVariant>
+<name>Life Of George 1</name>
+<year>2011</year>
+<theme>Life of George</theme>
+<themeGroup>Miscellaneous</themeGroup>
+<subtheme/>
+<pieces>146</pieces>
+<minifigs/>
+<image>true</image>
+<imageFilename>21200-1</imageFilename>
+<thumbnailURL>https://images.brickset.com/sets/small/21200-1.jpg</thumbnailURL>
+<largeThumbnailURL>https://images.brickset.com/sets/small/21200-1.jpg</largeThumbnailURL>
+<imageURL>
+https://images.brickset.com/sets/images/21200-1.jpg
+</imageURL>
+<bricksetURL>https://brickset.com/sets/21200-1</bricksetURL>
+<released>true</released>
+<owned>false</owned>
+<wanted>false</wanted>
+<qtyOwned>0</qtyOwned>
+<ACMDataCount>0</ACMDataCount>
+<ownedByTotal>525</ownedByTotal>
+<wantedByTotal>118</wantedByTotal>
+<UKRetailPrice>29.99</UKRetailPrice>
+<USRetailPrice>29.99</USRetailPrice>
+<CARetailPrice>34.99</CARetailPrice>
+<EURetailPrice/>
+<USDateAddedToSAH>2011-10-04</USDateAddedToSAH>
+<USDateRemovedFromSAH>2012-09-05</USDateRemovedFromSAH>
+<rating>3</rating>
+<reviewCount>2</reviewCount>
+<packagingType>{Not specified}</packagingType>
+<availability>{Not specified}</availability>
+<instructionsCount>0</instructionsCount>
+<additionalImageCount>15</additionalImageCount>
+<ageMin>8</ageMin>
+<ageMax/>
+<height/>
+<width/>
+<depth/>
+<weight/>
+<category>Normal</category>
+<userRating>0</userRating>
+<EAN/>
+<UPC/>
+<lastUpdated>2017-01-04T17:27:16.417</lastUpdated>
+</sets>
+<sets>
+<setID>9779</setID>
+<number>21201</number>
+<numberVariant>1</numberVariant>
+<name>Life Of George 2</name>
+<year>2012</year>
+<theme>Life of George</theme>
+<themeGroup>Miscellaneous</themeGroup>
+<subtheme/>
+<pieces>146</pieces>
+<minifigs/>
+<image>true</image>
+<imageFilename>21201-1</imageFilename>
+<thumbnailURL>https://images.brickset.com/sets/small/21201-1.jpg</thumbnailURL>
+<largeThumbnailURL>https://images.brickset.com/sets/small/21201-1.jpg</largeThumbnailURL>
+<imageURL>
+https://images.brickset.com/sets/images/21201-1.jpg
+</imageURL>
+<bricksetURL>https://brickset.com/sets/21201-1</bricksetURL>
+<released>true</released>
+<owned>false</owned>
+<wanted>false</wanted>
+<qtyOwned>0</qtyOwned>
+<ACMDataCount>0</ACMDataCount>
+<ownedByTotal>516</ownedByTotal>
+<wantedByTotal>102</wantedByTotal>
+<UKRetailPrice>29.99</UKRetailPrice>
+<USRetailPrice>29.99</USRetailPrice>
+<CARetailPrice>34.99</CARetailPrice>
+<EURetailPrice/>
+<USDateAddedToSAH>2012-10-16</USDateAddedToSAH>
+<USDateRemovedFromSAH>2013-11-30</USDateRemovedFromSAH>
+<rating>0</rating>
+<reviewCount>0</reviewCount>
+<packagingType>Box</packagingType>
+<availability>{Not specified}</availability>
+<instructionsCount>0</instructionsCount>
+<additionalImageCount>6</additionalImageCount>
+<ageMin>8</ageMin>
+<ageMax/>
+<height>18.4</height>
+<width>15</width>
+<depth>4.8</depth>
+<weight>0.28</weight>
+<category>Normal</category>
+<userRating>0</userRating>
+<EAN>5702014984134</EAN>
+<UPC>673419193092</UPC>
+<lastUpdated>2017-01-04T17:27:31.34</lastUpdated>
+</sets>
+</ArrayOfSets>
