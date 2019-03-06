@@ -34,7 +34,7 @@ var obj = {
         "Images": "https://www.lego.com/biassets/biimg/120087.png",
         "Description": "BUILDING BOOK",
         "Notes": "{No longer listed at LEGO.com}",
-        "DashedNumber": "260-01
+        "DashedNumber": "260-01"
     }
     ]
 };
