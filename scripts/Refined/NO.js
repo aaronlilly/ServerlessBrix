@@ -1,5 +1,5 @@
 $(document).ready(function () {
-    $('#dynam-now').click(function () {
+    $('#no-now').click(function () {
         var newArray = obj.results.filter(function (el) {
             return el.ID &&
                 el.SetNumber == $('#dynamId').val() &&
