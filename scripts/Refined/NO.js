@@ -1,13 +1,13 @@
 $(document).ready(function () {
     $('#no-now').click(function () {
         var newArray = obj.results.filter(function (el) {
-            return el.ID &&
-                el.SetNumber == $('#dynamId').val() &&
+            return el.SetNumber == $('#dynamId').val() &&
                 el.URL &&
                 el.Images &&
                 el.Description &&
                 el.Notes &&
-                el.DashedNumber;
+                el.DashedNumber &&
+                el.DateAdded;
         });
 
 
@@ -19,22 +19,24 @@ $(document).ready(function () {
 
 var obj = {
     'results': [{
-        "ID": 1,
+        
         "SetNumber": 260,
         "URL": "https://www.lego.com/biassets/bi/120086.pdf",
         "Images": "https://www.lego.com/biassets/biimg/120086.png",
         "Description": "BUILDING BOOK",
         "Notes": "{No longer listed at LEGO.com}",
-        "DashedNumber": "260-1"
+        "DashedNumber": "260-1",
+        "DateAdded":"03/08/19"
     },
     {
-        "ID": 2,
+        
         "SetNumber": 260,
         "URL": "https://www.lego.com/biassets/bi/120087.pdf",
         "Images": "https://www.lego.com/biassets/biimg/120087.png",
         "Description": "BUILDING BOOK",
         "Notes": "{No longer listed at LEGO.com}",
-        "DashedNumber": "260-01"
+        "DashedNumber": "260-01",
+        "DateAdded":"03/08/19"
     }
     ]
 };
