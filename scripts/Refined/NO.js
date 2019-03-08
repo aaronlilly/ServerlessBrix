@@ -1,13 +1,14 @@
 $(document).ready(function () {
     $('#no-now').click(function () {
         var newArray = obj.results.filter(function (el) {
-            return el.SetNumber == $('#dynamId').val() &&
-                el.URL &&
+            return el.ID &&
+                el.SetNumber == $('#dynamId').val() &&
                 el.Images &&
+                el.URL &&
                 el.Description &&
                 el.Notes &&
-                el.DashedNumber &&
-                el.DateAdded;
+                el.DashedNumber;
+                
         });
 
 
@@ -19,24 +20,22 @@ $(document).ready(function () {
 
 var obj = {
     'results': [{
-        
-        "SetNumber": 260,
-        "URL": "https://www.lego.com/biassets/bi/120086.pdf",
-        "Images": "https://www.lego.com/biassets/biimg/120086.png",
-        "Description": "BUILDING BOOK",
-        "Notes": "{No longer listed at LEGO.com}",
-        "DashedNumber": "260-1",
-        "DateAdded":"03/08/19"
-    },
-    {
-        
-        "SetNumber": 260,
-        "URL": "https://www.lego.com/biassets/bi/120087.pdf",
-        "Images": "https://www.lego.com/biassets/biimg/120087.png",
-        "Description": "BUILDING BOOK",
-        "Notes": "{No longer listed at LEGO.com}",
-        "DashedNumber": "260-01",
-        "DateAdded":"03/08/19"
-    }
+    "ID": 11762,
+    "SetNumber": 7772,
+    "URL": "https://www.lego.com/biassets/bi/4505802.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4505802.png",
+    "Description": "Lobster Strike",
+    "Notes": "BI, 7772",
+    "DashedNumber": "7772-1"
+  },
+  {
+    "ID": 11763,
+    "SetNumber": 7773,
+    "URL": "https://www.lego.com/biassets/bi/4518762.pdf",
+    "Images": "https://www.lego.com/biassets/biimg/4518762.png",
+    "Description": "Tiger Shark Attack",
+    "Notes": "BI, 7773",
+    "DashedNumber": "7773-1"
+  }
     ]
 };
