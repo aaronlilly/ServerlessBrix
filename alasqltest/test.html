@@ -12,6 +12,13 @@ Ala Sql Test
     //}).catch(function(err){
         //console.log('Does the file exist? There was an error:', err);
     //});
+    
+    alasql(['SELECT * FROM XLS(""https://aaronlilly.github.io/ServerlessBrix/apis/xlsCleanedBrick.xls") WHERE Description LIKE "A%" GROUP BY ID '])
+    .then(function(res){
+        console.log(res); // output depends on mydata.xls
+    }).catch(function(err){
+        console.log('Does the file exist? There was an error:', err);
+    });
 
 
     </script>
@@ -21,8 +28,9 @@ Ala Sql Test
 <body>
         
          
-         
-         
+    <a href ="https://aaronlilly.github.io/ServerlessBrix/Lego2.html">Home</a>
+   <a href ="https://aaronlilly.github.io/ServerlessBrix/apis/xlsCleanedBrick.xls">Spreadsheet/a> 
+   
          
          
          
