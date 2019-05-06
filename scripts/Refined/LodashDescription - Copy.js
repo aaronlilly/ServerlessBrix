@@ -1,24 +1,24 @@
 $(document).ready(function () {
     $('#search-now').click(function () {
-      let searchString = $('##dynamId').val();
+      var Termz = $('#dynamId').val().toLowerCase();
+      //$.get path to jasonfile, then  (response.data)
+        var newArray = obj.results.filter(function (el) {
+            return 
+                el.Description.includes(Termz);
+                
+        });
+//here i am eliminated the ability to spam results
+          $('#ArrayD').html("");
+          //
 
-let result = _.filter(legoProducts, function(object) {
-
-return object.Description.toLowerCase().indexOf(searchString.toLowerCase()) != -1;
-
+        for (var i = 0; i < newArray.length; i++) {
+            $('#ArrayD').append("<div class='col-sm' style='float:left;'><figure><a href ='" + newArray[i].URL + "'> <img src='" + newArray[i].Images + "' style='margin-right:1px;'>" + '<figcaption> <span class="badge badge-primary" style="background:#5cb85c;margin-left: 20px;">' + newArray[i].SetNumber + " " + '</span><span class="badge badge-primary" style="background:#428bca;"> ' + newArray[i].Description + ' </figcaption></span></figure></div>')
+        };
+    });
 });
 
-console.log(result);
-for (var i = 0; i < result.length; i++) ($('#ArrayD').append(result[i].Description))
-
-    ;
-    
-  });
- 
-});   
-      
-var legoProducts = {
-    [{
+var obj = {
+    'results': [{
     "ID": 1,
     "SetNumber": 7774,
     "URL": "https://www.lego.com/biassets/bi/4512816.pdf",
