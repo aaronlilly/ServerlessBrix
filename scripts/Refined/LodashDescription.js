@@ -17,8 +17,7 @@ for (var i = 0; i < result.length; i++) ($('#ArrayD').append(result[i].Descripti
  
 });   
       
-var legoProducts = {
-    [{
+var legoProducts = [{
     "ID": 1,
     "SetNumber": 7774,
     "URL": "https://www.lego.com/biassets/bi/4512816.pdf",
